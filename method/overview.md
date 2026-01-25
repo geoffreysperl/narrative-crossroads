@@ -1,128 +1,128 @@
 # Narrative Crossroads: Method Overview
 
-## Core Concept
+![Student journals from "The Most Dangerous Game" unit, 2023](/media/images/a.jpg)
 
-Narrative Crossroads uses tabletop roleplaying game mechanics as a framework for literary character analysis. The method positions students not as external critics but as *participants* in character decision-making, exploring the pressures, motivations, and constraints that shape how characters act at pivotal moments in a text.
+## What Is Narrative Crossroads?
 
-The name reflects the central structure: identifying **crossroads** — moments where a character faces a meaningful choice — and using structured roleplay to explore what's at stake.
+Narrative Crossroads is a framework for character analysis through structured roleplaying. It helps students analyze literary characters or historical figures by stepping into their shoes at critical decision points—threshold moments where characters face meaningful choices.
 
----
-
-## The Problem Narrative Crossroads Addresses
-
-Traditional character analysis often asks students to describe characters from the outside:
-
-- "What are Hamlet's character traits?"
-- "Why does Jay Gatsby throw parties?"
-- "How does Esperanza change over the course of the novel?"
-
-These questions have value, but they position the student as an observer. The character remains an object of study rather than a person whose decisions can be inhabited and interrogated.
-
-Narrative Crossroads inverts this relationship. Instead of asking *what does the character do?*, it asks:
-
-> **What would you do in this character's situation, given what you know about who they are, what they want, and what constraints they face?**
-
-This shift activates different cognitive processes — perspective-taking, causal reasoning, ethical deliberation — while remaining grounded in textual evidence.
+The framework combines elements from several sources:
+- The interview structure from my original "Character Analysis Role-Playing" lesson
+- The percentile dice system from Chaosium's *Basic Roleplaying* (BRP)
+- The atmospheric qualities of indie TTRPGs like *The Last Tea Shop*
 
 ---
 
-## How It Works
+## Core Framework
 
-### 1. Identify the Crossroads
+### 1. Character Selection
 
-Select a moment in the text where a character faces a decision with meaningful consequences. The best crossroads have:
+Students select or roll for a character from the text. Each character has pre-assigned skill percentages in three areas:
 
-- **Stakes** — something significant is at risk
-- **Constraints** — the character can't simply do whatever they want
-- **Ambiguity** — reasonable people (or characters) might choose differently
+| Skill | Description |
+|-------|-------------|
+| **Confrontation** | Physical challenges and conflicts |
+| **Comprehension** | Understanding situations and insights |
+| **Connection** | Social interactions and relationships |
 
-*Example: In* The Great Gatsby*, the moment Nick decides whether to stay at Gatsby's party or leave. In* The House on Mango Street*, when Esperanza must decide whether to help Sally.*
+### 2. Liminal Space Exploration
 
-### 2. Establish the Character Frame
+Students explore characters at **threshold moments**—critical turning points in the text. Each space presents 1-2 key decisions requiring skill checks.
 
-Before playing the crossroads, students articulate:
+### 3. Character Interview
 
-- **What does this character want?** (immediate goal and deeper motivation)
-- **What does this character fear?**
-- **What rules or values guide this character's behavior?**
-- **What resources or limitations does this character have?**
+Students roll for three questions (one from each skill category). Answering from the character's perspective deepens understanding.
 
-This frame-building requires close reading and textual evidence. Students must support their claims about the character before they can "play" them.
+The final question is always: **"Who are you?"**
 
-### 3. Play the Crossroads
+### 4. Decision Resolution
 
-Using simplified TTRPG mechanics, students roleplay the decision moment. The mechanics provide:
+- Students roll D100 (two ten-sided dice) against the character's skill percentage
+- Success or failure determines how the character navigates the liminal space
+- Outcomes affect character development and narrative direction
 
-- **Structure** — a clear procedure for how the scene unfolds
-- **Randomness** — dice introduce uncertainty, modeling the unpredictability of real choices
-- **Consequence** — outcomes follow from decisions, reinforcing cause-and-effect thinking
+### 5. Reflection & Analysis
 
-The GM (teacher or student) presents the situation; the player(s) respond as the character; dice determine outcomes when success is uncertain.
-
-### 4. Debrief and Analyze
-
-After play, students reflect:
-
-- How did your choice compare to what the character actually does in the text?
-- What did the roleplay reveal about the character's situation that you hadn't considered before?
-- What textual evidence supports or complicates your interpretation?
-
-The debrief reconnects the experiential learning to analytical writing and discussion.
+- Students document their character's experience
+- Connect decisions to character development and textual themes
 
 ---
 
-## Why TTRPG Mechanics?
+## Implementation Examples
 
-Tabletop roleplaying games offer several features that support literary analysis:
+### Literary Analysis
 
-| TTRPG Element | Educational Function |
-|---------------|----------------------|
-| Character sheets | Structured framework for textual evidence about character |
-| Dice mechanics | Model uncertainty and consequence |
-| GM narration | Scaffolds close reading of setting and situation |
-| Collaborative play | Builds social literacy through negotiated meaning-making |
-| The "magic circle" | Creates low-stakes space for risk-taking and experimentation |
+The framework helps students understand character motivations in complex texts:
 
-The mechanics aren't arbitrary game elements layered onto literature — they're *analytical tools* that make character reasoning visible and testable.
+- Exploring Rainsford's moral dilemma in "The Most Dangerous Game"
+- Analyzing the Outsider's search for identity in Lovecraft's story
+- Understanding the feud's psychological impact in "The Interlopers"
+- Navigating the tragic choices in *Romeo and Juliet*
 
----
+### Historical Analysis
 
-## Theoretical Foundations
+Narrative Crossroads can be adapted to explore historical figures at pivotal moments:
 
-Narrative Crossroads integrates three theoretical traditions:
-
-1. **Huizinga's Magic Circle** — Play creates a bounded space where students can experiment without real-world consequences, encouraging risk-taking in interpretation.
-
-2. **Piaget's Constructivism** — Active engagement with decisions creates cognitive disequilibrium, prompting students to develop more sophisticated schemas for understanding character.
-
-3. **Vygotsky's Zone of Proximal Development** — Collaborative roleplay scaffolds complex analysis, with peers and the GM supporting students through challenges they couldn't navigate alone.
-
-See [theoretical-foundations.md](theoretical-foundations.md) for detailed discussion.
+- A Civil Rights activist deciding whether to participate in a sit-in
+- A historical leader making a crucial wartime decision
+- An immigrant arriving at Ellis Island in the early 20th century
 
 ---
 
-## Who Is This For?
+## Classroom Integration
 
-Narrative Crossroads was developed for **secondary ELA classrooms** (grades 9-12) and works particularly well with:
+Narrative Crossroads supports several pedagogical goals:
 
-- **Multilingual learners** — The scaffolded structure and collaborative format reduce anxiety while providing authentic language practice
-- **Reluctant readers** — Active participation creates investment in texts that might otherwise feel distant
-- **Students who "hate English class"** — The game frame recontextualizes literary analysis as problem-solving rather than compliance
-
-See [ml-scaffolding.md](ml-scaffolding.md) for specific adaptations for multilingual learners.
+| Goal | How NC Supports It |
+|------|-------------------|
+| **Engagement** | Game mechanics provide structure and unpredictability |
+| **Critical Thinking** | Students analyze character motivations and decisions |
+| **Empathy** | Roleplaying develops understanding of diverse perspectives |
+| **Writing Skills** | Journal format strengthens descriptive and reflective writing |
+| **ML Support** | Structured framework scaffolds analysis for multilingual learners |
 
 ---
 
-## What Narrative Crossroads Is Not
+## Assessment Approaches
 
-- **Not gamification** — We're not adding points and badges to existing assignments. We're using game *structures* to enable different kinds of thinking.
-- **Not a replacement for close reading** — The method requires and reinforces textual evidence. Roleplay without grounding in the text is just improv.
-- **Not D&D in English class** — While inspired by TTRPGs, Narrative Crossroads uses simplified, purpose-built mechanics. No prior gaming experience required.
+Narrative Crossroads supports multiple assessment methods:
+
+- Written character journals
+- Audio/video character interviews
+- Comparative analysis essays
+- Collaborative scene creation
+- Alternative ending development
+
+The framework aligns with ELA standards including character analysis, evidence-based reasoning, and analytical writing while providing differentiated support for multilingual learners.
+
+---
+
+## Downloads
+
+Ready-to-use modules with character profiles, liminal spaces, question banks, and implementation guidelines:
+
+- [Narrative Crossroads Framework](/downloads/Narrative_Crossroads_Framework.pdf) — Core system document
+- [The Most Dangerous Game](/downloads/NC_MDG.pdf)
+- [The Interlopers](/downloads/NC_Interlopers.pdf)
+- [The Outsider](/downloads/NC_Outsider.pdf)
+- [Romeo and Juliet](/downloads/NC_Romeo_Juliet.pdf)
+- [Historical Framework Template](/downloads/NC_Historical_Template.pdf)
+
+---
+
+## Acknowledgments
+
+Narrative Crossroads was inspired in part by Spring Villager's *Last Tea Shop Complete*. The game format of *Last Tea Shop Complete* is open for hacking and remixing under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+*This product is licensed under the ORC License held in the Library of Congress at TX-307-067 and available online at various locations including [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense).*
+
+*BRP and Basic Roleplaying are trademarks of Chaosium Inc.*
 
 ---
 
 ## Next Steps
 
-- [Implementation Guide](../practice/implementation-guide.md) — How to run Narrative Crossroads in your classroom
-- [Character Analysis Tools](../practice/character-analysis-tools.md) — The specific mechanics and worksheets
-- [Modules](../practice/modules/) — Ready-to-use applications for specific texts
+- [Theoretical Foundations](theoretical-foundations.md) — Why this works (Huizinga, Piaget, Vygotsky)
+- [Gaming Literacy Model](gaming-literacy-model.md) — The three-frame model
+- [ML Scaffolding](ml-scaffolding.md) — Adaptations for multilingual learners
+- [Implementation Guide](../practice/implementation-guide.md) — Classroom logistics

@@ -1,144 +1,144 @@
 # Character Analysis Tools
 
-This document contains the core mechanics and worksheets for Narrative Crossroads.
+The mechanics and worksheets for Narrative Crossroads.
+
+---
+
+## The Three Skills
+
+Every character in Narrative Crossroads has percentages in three skills:
+
+| Skill | Governs | Example Uses |
+|-------|---------|--------------|
+| **Confrontation** | Physical challenges and conflicts | Fighting, fleeing, enduring hardship, taking bold action |
+| **Comprehension** | Understanding situations and insights | Noticing details, solving puzzles, reading between lines, recalling knowledge |
+| **Connection** | Social interactions and relationships | Persuading, deceiving, empathizing, building trust |
+
+### Skill Percentages
+
+Characters are pre-assigned skill percentages based on their portrayal in the text:
+
+- **High (60-75%)** — The character excels here
+- **Medium (40-55%)** — Competent but not exceptional
+- **Low (25-40%)** — A weakness or blind spot
+
+The percentages reflect who the character *is*, not who students want them to be.
+
+---
+
+## Resolution Mechanic
+
+When a character attempts something with uncertain outcome:
+
+### 1. Describe the Action
+What does your character try to do?
+
+### 2. Identify the Skill
+Which skill applies—Confrontation, Comprehension, or Connection?
+
+### 3. Roll D100
+Roll two ten-sided dice (2D10). One die represents tens, the other units.
+
+| Roll | Result |
+|------|--------|
+| **01-[Skill %]** | **Success** — It works as intended |
+| **[Skill %+1]-95** | **Failure** — It doesn't work, or backfires |
+| **96-00** | **Critical Failure** — Something goes very wrong |
+
+*Note: Rolling equal to or under your skill percentage succeeds.*
+
+### 4. Narrate the Outcome
+The GM (teacher) describes what happens based on the roll.
+
+---
+
+## Character Interview
+
+After exploring the liminal space, students answer interview questions from the character's perspective.
+
+### Question Structure
+
+Roll or select one question from each skill category:
+
+**Confrontation Questions** — About action, conflict, physical experience
+- "What was the hardest thing you had to do?"
+- "When did you feel most afraid?"
+
+**Comprehension Questions** — About understanding, insight, realization
+- "What do you understand now that you didn't before?"
+- "What did you notice that others missed?"
+
+**Connection Questions** — About relationships, belonging, identity
+- "Who matters most to you, and why?"
+- "What do others misunderstand about you?"
+
+### The Final Question
+
+Every interview ends with: **"Who are you?"**
+
+This open question invites synthesis—students must articulate the character's identity based on everything they've experienced.
 
 ---
 
 ## Character Frame Worksheet
 
-*Copy and adapt for your classroom.*
+*For students to complete before play.*
 
 ### Character: _______________
 ### Text: _______________
-### Crossroads Moment: _______________
+### Liminal Space: _______________
 
 ---
 
-#### 1. WANTS
+#### Skills
 
-**What does this character want in this moment?**
-
-_________________________________________________________________
-
-**What does this character want in the larger story?**
-
-_________________________________________________________________
-
-**Textual Evidence:**
-
-> "_________________________________________________________________"
-> (Page/Chapter: _____)
+| Skill | Percentage | Textual Evidence |
+|-------|------------|------------------|
+| Confrontation | ___% | |
+| Comprehension | ___% | |
+| Connection | ___% | |
 
 ---
 
-#### 2. FEARS
+#### Character Profile
 
-**What is this character afraid of?**
+**What does this character want?**
 
 _________________________________________________________________
 
-**Textual Evidence:**
+**What does this character fear?**
 
-> "_________________________________________________________________"
-> (Page/Chapter: _____)
+_________________________________________________________________
+
+**What rules or values guide this character?**
+
+_________________________________________________________________
 
 ---
 
-#### 3. VALUES & RULES
+## Reflection Prompts
 
-**What principles guide this character's behavior?**
-
-_________________________________________________________________
-
-**What would this character never do? Why?**
-
-_________________________________________________________________
-
-**Textual Evidence:**
-
-> "_________________________________________________________________"
-> (Page/Chapter: _____)
-
----
-
-#### 4. RESOURCES & LIMITATIONS
-
-**What does this character have going for them?**
-
-_________________________________________________________________
-
-**What constraints limit this character's options?**
-
-_________________________________________________________________
-
-**Textual Evidence:**
-
-> "_________________________________________________________________"
-> (Page/Chapter: _____)
-
----
-
-## Basic Resolution Mechanic
-
-When a character attempts something with uncertain outcome:
-
-1. **Describe the action** — What does your character try to do?
-2. **Justify from character** — Why would this character do this?
-3. **Roll one six-sided die (d6)**
-
-| Roll | Result |
-|------|--------|
-| **6** | Full Success — It works exactly as intended |
-| **4-5** | Success with Cost — It works, but something complicates matters |
-| **2-3** | Partial Success — It partially works, or works with significant drawback |
-| **1** | Failure — It doesn't work, or makes things worse |
-
-4. **GM narrates the outcome**
-5. **Continue the scene**
-
----
-
-## Debrief Reflection Prompts
-
-Choose one or more for post-play discussion or writing:
+After play, students reflect:
 
 ### Comparison
-- How did your choice compare to what the character actually does in the text?
-- Why do you think the author made a different choice?
+- How did your choices compare to what the character actually does in the text?
+- Why do you think the author made different choices?
 
 ### Discovery
-- What did the roleplay reveal about this character that you hadn't considered before?
+- What did the roleplay reveal about this character that you hadn't considered?
 - What surprised you about how the scene played out?
 
 ### Evidence
-- What textual evidence supports your interpretation of this character?
+- What textual evidence supports your interpretation?
 - What evidence might challenge your reading?
 
-### Transfer
-- How would you use this understanding in an analytical essay?
-- What claim about this character could you now defend with evidence?
+### Identity
+- How did you answer "Who are you?" and why?
+- How does this character's identity connect to the text's themes?
 
 ---
 
-## Advanced Mechanics
+## Downloads
 
-*[TO BE DEVELOPED]*
-
-### Trait Dice
-Assign dice bonuses based on character traits established in the Character Frame.
-
-### Competing Values
-When a character's wants and values conflict, require a choice before rolling.
-
-### Collaborative Crossroads
-Multiple characters in the same scene, with interdependent outcomes.
-
----
-
-## Printable Materials
-
-*[TO BE DEVELOPED]*
-
-- Character Frame (one-page, printable)
-- Quick Reference Card (mechanics summary)
-- GM Cheat Sheet (facilitation prompts)
+- [Narrative Crossroads Framework](/downloads/Narrative_Crossroads_Framework.pdf) — Complete system document
+- [Text-specific modules](/practice/modules/) — Ready-to-use character profiles and liminal spaces
