@@ -1,3 +1,10 @@
+---
+layout: default
+title: Theoretical Foundations
+parent: Method
+nav_order: 2
+---
+
 # Theoretical Foundations
 
 Narrative Crossroads integrates three theoretical traditions that together explain why structured roleplay supports literary analysis.
@@ -60,7 +67,7 @@ Lev Vygotsky's sociocultural theory emphasizes that learning is fundamentally so
 The collaborative structure of TTRPG-based analysis provides multiple layers of scaffolding:
 
 | Scaffold | Function |
-|----------|----------|
+|:---------|:---------|
 | Character frame worksheet | Structures textual evidence gathering |
 | GM narration | Models close reading of setting/situation |
 | Peer roleplay | Provides real-time feedback on interpretation |
@@ -76,7 +83,7 @@ The GM (teacher) operates as MKO, but peers also scaffold each other — a stude
 These three frameworks aren't competing theories — they describe different dimensions of the same learning experience:
 
 | Framework | What It Explains |
-|-----------|------------------|
+|:----------|:-----------------|
 | Huizinga | *Why students engage* — the magic circle creates safety and meaning |
 | Piaget | *How understanding develops* — disequilibrium drives schema revision |
 | Vygotsky | *How collaboration accelerates learning* — scaffolding extends what's possible |
@@ -95,4 +102,4 @@ Narrative Crossroads is most effective when all three dimensions are intentional
 - Piaget, J. (1952). *The Origins of Intelligence in Children*
 - Vygotsky, L. (1978). *Mind in Society: The Development of Higher Psychological Processes*
 
-See [annotated-bibliography.md](../research/annotated-bibliography.md) for additional sources.
+See the [Annotated Bibliography]({% link research/annotated-bibliography.md %}) for additional sources.

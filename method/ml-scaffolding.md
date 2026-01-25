@@ -1,3 +1,10 @@
+---
+layout: default
+title: ML Scaffolding
+parent: Method
+nav_order: 4
+---
+
 # Scaffolding for Multilingual Learners
 
 Narrative Crossroads is particularly effective with multilingual learners (MLs). The structured, collaborative, low-stakes nature of roleplay addresses several challenges MLs face in traditional ELA instruction.
@@ -40,7 +47,7 @@ MLs benefit from **meaningful communication** rather than decontextualized drill
 ### Before Play
 
 | Scaffold | Purpose |
-|----------|---------|
+|:---------|:--------|
 | **Visual character sheets** | Reduce text density; use icons and images |
 | **Sentence frames for character description** | "My character wants ___ because ___" |
 | **Pre-teaching key vocabulary** | Front-load terms needed for the scenario |
@@ -50,7 +57,7 @@ MLs benefit from **meaningful communication** rather than decontextualized drill
 ### During Play
 
 | Scaffold | Purpose |
-|----------|---------|
+|:---------|:--------|
 | **Think time before responding** | Reduce pressure for immediate production |
 | **Bilingual glossaries at table** | Support in-moment vocabulary needs |
 | **Partner roleplay before full group** | Lower-stakes practice |
@@ -60,7 +67,7 @@ MLs benefit from **meaningful communication** rather than decontextualized drill
 ### After Play
 
 | Scaffold | Purpose |
-|----------|---------|
+|:---------|:--------|
 | **Structured debrief protocols** | Sentence starters for reflection |
 | **Multimodal response options** | Drawing, diagramming, or L1 writing before English |
 | **Collaborative writing** | Shared responsibility for analytical output |
@@ -129,5 +136,5 @@ creates a **multimodal scaffolded environment** aligned with best practices for 
 
 ## See Also
 
-- [Implementation Guide](../practice/implementation-guide.md) — General classroom logistics
-- [Theoretical Foundations](theoretical-foundations.md) — Vygotsky's scaffolding framework
+- [Implementation Guide]({% link practice/implementation-guide.md %}) — General classroom logistics
+- [Theoretical Foundations]({% link method/theoretical-foundations.md %}) — Vygotsky's scaffolding framework

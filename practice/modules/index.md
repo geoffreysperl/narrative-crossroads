@@ -1,3 +1,10 @@
+---
+layout: default
+title: Modules
+parent: Practice
+nav_order: 3
+---
+
 # Modules
 
 Text-specific Narrative Crossroads modules with character profiles, liminal spaces, question banks, and implementation guidelines.
@@ -7,7 +14,7 @@ Text-specific Narrative Crossroads modules with character profiles, liminal spac
 ## Available Modules
 
 | Module | Download | Description |
-|--------|----------|-------------|
+|:-------|:---------|:------------|
 | **Framework** | [PDF](/downloads/Narrative_Crossroads_Framework.pdf) | Core system document |
 | **The Most Dangerous Game** | [PDF](/downloads/NC_MDG.pdf) | Rainsford's moral dilemma |
 | **The Interlopers** | [PDF](/downloads/NC_Interlopers.pdf) | The feud's psychological impact |
@@ -42,7 +49,7 @@ Use the [Historical Template](/downloads/NC_Historical_Template.pdf) as a starti
 ### Skill Assignment Guidelines
 
 | Character Type | Confrontation | Comprehension | Connection |
-|---------------|---------------|---------------|------------|
+|:---------------|:--------------|:--------------|:-----------|
 | Action-oriented | High (60-75%) | Medium (40-55%) | Low (25-40%) |
 | Intellectual | Low (25-40%) | High (60-75%) | Medium (40-55%) |
 | Social/Political | Medium (40-55%) | Medium (40-55%) | High (60-75%) |

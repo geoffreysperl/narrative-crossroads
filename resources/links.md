@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resources
+nav_order: 5
+---
+
 # Resources & Links
 
 External resources for TTRPG-based education.
@@ -37,7 +43,7 @@ Annual Trade Day programming includes educator sessions. Major networking opport
 ### For Classroom Use
 
 | System | Publisher | Notes |
-|--------|-----------|-------|
+|:-------|:----------|:------|
 | **No Thank You, Evil!** | Monte Cook Games | Designed for kids; excellent for intro/scaffolding |
 | **Basic Roleplaying** | Chaosium | Flexible, percentile-based; adaptable to any setting |
 | **Fate Accelerated** | Evil Hat | Narrative-focused; emphasizes character aspects |
@@ -101,7 +107,7 @@ Annual Trade Day programming includes educator sessions. Major networking opport
 ## Narrative Crossroads
 
 - **Website:** [narrativecrossroads.org](https://narrativecrossroads.org)
-- **Repository:** [github.com/geoffreysperl/narrative-crossroads](https://github.com/geoffreysperl/narrative-crossroads) *(update with actual URL)*
+- **Repository:** [github.com/geoffreysperl/narrative-crossroads](https://github.com/geoffreysperl/narrative-crossroads)
 - **Creator:** [teaching.geoffreysperl.com](https://teaching.geoffreysperl.com)
 
 ---

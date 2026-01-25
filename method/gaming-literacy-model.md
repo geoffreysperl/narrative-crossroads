@@ -1,3 +1,10 @@
+---
+layout: default
+title: Gaming Literacy Model
+parent: Method
+nav_order: 3
+---
+
 # Gaming Literacy Model
 
 Narrative Crossroads draws on a three-frame model of gaming literacy, synthesized from Zimmerman (2007) and Zagal (2008). Understanding these frames helps explain *how* TTRPG mechanics translate into literacy skills.
@@ -86,7 +93,7 @@ This simultaneity is why TTRPGs are such rich literacy environments — they exe
 When designing Narrative Crossroads activities, consider which frames you're emphasizing:
 
 | If you want to develop... | Emphasize... |
-|---------------------------|--------------|
+|:--------------------------|:-------------|
 | Systems thinking | More complex mechanics, resource management |
 | Narrative analysis | Character motivation, consequence tracking |
 | Collaboration skills | Group decision-making, shared characters |

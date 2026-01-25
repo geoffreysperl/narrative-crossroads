@@ -1,3 +1,10 @@
+---
+layout: default
+title: Implementation Guide
+parent: Practice
+nav_order: 1
+---
+
 # Implementation Guide
 
 This guide covers the practical logistics of running Narrative Crossroads in a secondary ELA classroom.
@@ -26,7 +33,7 @@ What helps:
 ### Time Required
 
 | Format | Minimum Time | Recommended |
-|--------|--------------|-------------|
+|:-------|:-------------|:------------|
 | Single crossroads, quick debrief | 30 minutes | 45 minutes |
 | Full session with character framing | 45 minutes | 60 minutes |
 | Extended module (multiple crossroads) | 90 minutes | Split across 2 days |
@@ -110,7 +117,7 @@ The debrief is where learning crystallizes. Don't skip it.
 ### Grouping
 
 | Group Size | Best For |
-|------------|----------|
+|:-----------|:---------|
 | Whole class | Teacher modeling, high-stakes moments, shared experience |
 | 4-5 students | Standard play; one GM + players |
 | Pairs | Low-stakes practice, dialogue scenes, ML scaffolding |
@@ -149,7 +156,7 @@ Observe and note:
 ### Summative Options
 
 | Assessment | What It Measures |
-|------------|------------------|
+|:-----------|:-----------------|
 | Character Frame worksheet | Close reading, evidence gathering |
 | Debrief reflection | Analytical thinking, self-assessment |
 | Analytical essay | Transfer to traditional academic writing |
@@ -194,6 +201,6 @@ Narrative Crossroads supports ELA standards including:
 
 ## Next Steps
 
-- [Character Analysis Tools](character-analysis-tools.md) — Worksheets and mechanics
-- [Modules](modules/) — Ready-to-use scenarios for specific texts
-- [ML Scaffolding](../method/ml-scaffolding.md) — Adaptations for multilingual learners
+- [Character Analysis Tools]({% link practice/character-analysis-tools.md %}) — Worksheets and mechanics
+- [Modules]({% link practice/modules/index.md %}) — Ready-to-use scenarios for specific texts
+- [ML Scaffolding]({% link method/ml-scaffolding.md %}) — Adaptations for multilingual learners

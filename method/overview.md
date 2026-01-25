@@ -1,3 +1,10 @@
+---
+layout: default
+title: Overview
+parent: Method
+nav_order: 1
+---
+
 # Narrative Crossroads: Method Overview
 
 ![Student journals from "The Most Dangerous Game" unit, 2023](/media/images/a.jpg)
@@ -20,7 +27,7 @@ The framework combines elements from several sources:
 Students select or roll for a character from the text. Each character has pre-assigned skill percentages in three areas:
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | **Confrontation** | Physical challenges and conflicts |
 | **Comprehension** | Understanding situations and insights |
 | **Connection** | Social interactions and relationships |
@@ -74,7 +81,7 @@ Narrative Crossroads can be adapted to explore historical figures at pivotal mom
 Narrative Crossroads supports several pedagogical goals:
 
 | Goal | How NC Supports It |
-|------|-------------------|
+|:-----|:-------------------|
 | **Engagement** | Game mechanics provide structure and unpredictability |
 | **Critical Thinking** | Students analyze character motivations and decisions |
 | **Empathy** | Roleplaying develops understanding of diverse perspectives |
@@ -117,12 +124,3 @@ Narrative Crossroads was inspired in part by Spring Villager's *Last Tea Shop Co
 *This product is licensed under the ORC License held in the Library of Congress at TX-307-067 and available online at various locations including [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense).*
 
 *BRP and Basic Roleplaying are trademarks of Chaosium Inc.*
-
----
-
-## Next Steps
-
-- [Theoretical Foundations](theoretical-foundations.md) — Why this works (Huizinga, Piaget, Vygotsky)
-- [Gaming Literacy Model](gaming-literacy-model.md) — The three-frame model
-- [ML Scaffolding](ml-scaffolding.md) — Adaptations for multilingual learners
-- [Implementation Guide](../practice/implementation-guide.md) — Classroom logistics

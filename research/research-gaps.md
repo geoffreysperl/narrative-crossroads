@@ -1,3 +1,10 @@
+---
+layout: default
+title: Research Gaps
+parent: Research
+nav_order: 2
+---
+
 # Research Gaps in TTRPG-Based Education
 
 This document identifies areas where rigorous research is needed. If you're considering graduate work in this field, these represent significant opportunities for contribution.
@@ -152,7 +159,7 @@ For researchers entering this field:
 
 If you're pursuing research in this area, I'd love to hear about it:
 
-Geoffrey Sperl
+Geoffrey Sperl  
 [geoffrey@geoffreysperl.com](mailto:geoffrey@geoffreysperl.com)
 
 I'm happy to discuss methodology, share materials, or collaborate on research design — even if I'm not pursuing doctoral work myself, I want to support the field.

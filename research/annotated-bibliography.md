@@ -1,3 +1,10 @@
+---
+layout: default
+title: Annotated Bibliography
+parent: Research
+nav_order: 1
+---
+
 # Annotated Bibliography
 
 Key sources informing Narrative Crossroads, organized by theme.
@@ -94,7 +101,7 @@ Presents a matrix aligning game elements with educational objectives. Useful for
 
 ## To Add
 
-*[Additional sources to be incorporated]*
+*Additional sources to be incorporated:*
 
 - Crawford, C. — Game design theory
 - Additional ML/ELL research
