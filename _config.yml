@@ -1,0 +1,29 @@
+theme: jekyll-theme-merlot
+
+title: Narrative Crossroads
+description: A methodology for literary character analysis using tabletop roleplaying game mechanics
+
+# Optional: Override default URL if using custom domain
+url: https://narrativecrossroads.org
+
+# Social/contact (used by some themes)
+author:
+  name: Geoffrey Sperl
+  email: geoffrey@geoffreysperl.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from build
+exclude:
+  - README.md
+  - LICENSE.md
+  - CHANGELOG.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Include for navigation (Merlot uses README as index by default)
+# You may want to create an index.md that's more landing-page styled
