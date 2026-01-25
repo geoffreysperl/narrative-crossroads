@@ -12,8 +12,6 @@ color_scheme: custom
 aux_links:
   "GitHub":
     - "https://github.com/geoffreysperl/narrative-crossroads"
-  "Download Framework":
-    - "/downloads/Narrative_Crossroads_Framework.pdf"
 
 aux_links_new_tab: true
 
@@ -24,13 +22,14 @@ footer_content: "Created by Geoffrey Sperl. Licensed under <a href=\"https://cre
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Search
+# Search - customize the placeholder text
 search_enabled: true
 search:
   heading_level: 2
   previews: 3
   preview_words_before: 5
   preview_words_after: 10
+search_placeholder: "Search..."
 
 # Navigation structure
 nav_enabled: true

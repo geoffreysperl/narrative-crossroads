@@ -1,10 +1,10 @@
-# ChaosiumCon 2026
-
-Materials for Narrative Crossroads presentation at ChaosiumCon 2026.
-
+---
+layout: default
+title: ChaosiumCon 2026
+nav_exclude: true
 ---
 
-## Status
+# ChaosiumCon 2026
 
 *Planning stage*
 
@@ -12,38 +12,19 @@ Materials for Narrative Crossroads presentation at ChaosiumCon 2026.
 
 ## Presentation Concept
 
-*[To be developed]*
-
-Building on ChaosiumCon 2025 "Chaos(ium) in the Classroom" panel, this presentation will focus specifically on the Narrative Crossroads methodology.
-
-### Potential Angles
-
-- **For hobbyist gamers:** How your GM skills translate to teaching
-- **For educators:** Using BRP mechanics for literary analysis
-- **Hands-on workshop:** Participants experience a crossroads scenario
+Narrative Crossroads methodology presentation for ChaosiumCon 2026.
 
 ---
 
 ## Materials to Develop
 
-- [ ] Session proposal/abstract
+- [ ] Session proposal
 - [ ] Slide deck
-- [ ] Handouts (Character Frame worksheet, quick reference)
-- [ ] Demo scenario (text-agnostic or using public domain text)
-
----
-
-## Timeline
-
-| Date | Milestone |
-|------|-----------|
-| TBD | Proposal submission deadline |
-| TBD | Acceptance notification |
-| TBD | Materials finalized |
-| TBD | ChaosiumCon 2026 |
+- [ ] Handouts
+- [ ] Demo scenario
 
 ---
 
 ## Notes
 
-*[Space for planning notes]*
+*[Add planning notes here]*

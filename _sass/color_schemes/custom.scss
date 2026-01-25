@@ -27,3 +27,17 @@ $search-result-preview-color: #5c1616;
 
 // Feedback/callout colors (keep defaults but tint warmer)
 $feedback-color: #6e1a1a;
+
+// Navigation active state - HIGH CONTRAST
+// White text on burgundy background
+.site-nav {
+  .nav-list-item {
+    &.active {
+      > .nav-list-link {
+        background-color: #6e1a1a;
+        color: #ffffff !important;
+        font-weight: 600;
+      }
+    }
+  }
+}

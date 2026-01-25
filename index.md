@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Home
+title: About
 nav_order: 1
 ---
 
-# Narrative Crossroads
+# About
 
 **Character Analysis through Roleplaying for Literary and Historical Study**
 
@@ -22,34 +22,24 @@ The framework uses percentile dice (D100) and three core skills:
 
 ---
 
-## Downloads
+## Who Is This For?
 
-Ready-to-use modules with character profiles, liminal spaces, and question banks:
+**Teachers** looking to engage students in deeper character analysis through structured roleplay. Works particularly well with:
+- Reluctant readers who find traditional literary analysis alienating
+- Multilingual learners who benefit from scaffolded, collaborative activities
+- Students who respond to game-based learning structures
 
-| Module | Download |
-|:-------|:---------|
-| **Framework** | [PDF](/downloads/Narrative_Crossroads_Framework.pdf) |
-| **The Most Dangerous Game** | [PDF](/downloads/NC_MDG.pdf) |
-| **The Interlopers** | [PDF](/downloads/NC_Interlopers.pdf) |
-| **The Outsider** | [PDF](/downloads/NC_Outsider.pdf) |
-| **Romeo and Juliet** | [PDF](/downloads/NC_Romeo_Juliet.pdf) |
-| **Historical Template** | [PDF](/downloads/NC_Historical_Template.pdf) |
+**Researchers** interested in TTRPG-based pedagogy, gaming literacy, or play-based learning.
+
+**Game designers** curious about how TTRPG mechanics can serve educational objectives.
 
 ---
 
-## About
+## About the Creator
 
 Narrative Crossroads was developed by **Geoffrey Sperl**, an ELA/ESL teacher at Hamtramck High School in Michigan, as part of his MAT thesis at Wayne State University (2025).
 
+Geoffrey sponsors his school's TTRPG Club and presents on TTRPG pedagogy at conventions including ChaosiumCon. His work bridges tabletop gaming and literacy education, with a particular focus on multilingual learners.
+
 - Website: [teaching.geoffreysperl.com](https://teaching.geoffreysperl.com)
 - Contact: [geoffrey@geoffreysperl.com](mailto:geoffrey@geoffreysperl.com)
-
----
-
-## Acknowledgments
-
-Inspired in part by Spring Villager's *Last Tea Shop Complete* ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
-
-Licensed under the [ORC License](https://www.chaosium.com/orclicense). *BRP and Basic Roleplaying are trademarks of Chaosium Inc.*
-
-See also: [TabletopEDU](https://www.tabletopEDU.org) — Nonprofit advancing TTRPGs in education.
