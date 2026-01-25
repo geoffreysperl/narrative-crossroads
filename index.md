@@ -1,10 +1,10 @@
 ---
 layout: home
-title: About
+title: Home
 nav_order: 1
 ---
 
-# About
+# Narrative Crossroads
 
 **Character Analysis through Roleplaying for Literary and Historical Study**
 

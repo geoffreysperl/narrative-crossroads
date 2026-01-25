@@ -22,14 +22,14 @@ footer_content: "Created by Geoffrey Sperl. Licensed under <a href=\"https://cre
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Search - customize the placeholder text
+# Search configuration
 search_enabled: true
 search:
   heading_level: 2
   previews: 3
   preview_words_before: 5
   preview_words_after: 10
-search_placeholder: "Search..."
+  placeholder: "Search..."
 
 # Navigation structure
 nav_enabled: true
