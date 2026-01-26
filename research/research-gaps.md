@@ -7,7 +7,7 @@ nav_order: 2
 
 # Research Gaps in TTRPG-Based Education
 
-This document identifies areas where rigorous research is needed. If you're considering graduate work in this field, these represent significant opportunities for contribution.
+This document identifies areas where rigorous research is needed. If you're considering graduate work in this field, these represent significant opportunities for contribution. If you know of any studies (your own or someone else's) that fill these gaps, please contact me below.
 
 ---
 

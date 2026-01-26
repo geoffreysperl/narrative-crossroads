@@ -13,3 +13,4 @@ This section covers:
 - [Implementation Guide]({% link practice/implementation-guide.md %}) — Classroom logistics and session structure
 - [Character Analysis Tools]({% link practice/character-analysis-tools.md %}) — Mechanics and worksheets
 - [Modules]({% link practice/modules/index.md %}) — Ready-to-use text-specific applications
+- [Standards Alignment]({% link practice/standards-alignment.md %}) — CCSS mapping for documentation and justification
