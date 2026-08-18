@@ -1,7 +1,7 @@
 ---
 title: From the Workshop
 layout: default
-nav_order: 3
+nav_exclude: true
 description: Follow-up materials for teachers who attended a Quest-Based Learning session — and for those who heard about it.
 ---
 
@@ -10,7 +10,7 @@ description: Follow-up materials for teachers who attended a Quest-Based Learnin
 
 If you were in a Quest-Based Learning session, this is your follow-up page. If someone told you about it and you weren't there, everything here works without having attended — you'll just be reading the scenario instead of remembering it.
 
-**If you only do one thing:** go to [Start Here]({% link start-here.md %}) and run the Monday version. Everything else on this page is optional depth.
+**If you only do one thing:** go to the [Quickstart]({% link quickstart.md %}) and run it. Everything else on this page is optional depth.
 
 ---
 
@@ -26,20 +26,15 @@ The three claims from the session, in order:
 
 1. **The card is the stick.** A child with a stick is a knight. A student with a character card is inside the text. The prop does the work of imagination that instruction alone can't assign.
 2. **You don't adopt a game. You steal its procedures.** A game is a setting plus a set of procedures. The procedures are what your classroom wants.
-3. **Monday: one card, one scene, one question.** Everything else is elaboration.
+3. **One card, one scene, one question.** Everything else is elaboration.
 
 ---
 
 ## Session Materials
 
-| Material | What it is |
-| --- | --- |
-| [Monday One-Pager (PDF)](/downloads/NC_Monday_One_Pager.pdf) | The minimum viable version — the bookmark, expanded |
-| [Character Frame Card (PDF)](/downloads/NC_Character_Frame_Card.pdf) | Blank cards, four to a page |
-| [Toolkit Function Menu (PDF)](/downloads/NC_Toolkit_Function_Menu.pdf) | The seven procedures worth stealing, with a game and a classroom job for each |
-| [For All Learners (PDF)](/downloads/NC_All_Learners.pdf) | UDL and accessibility guidance across the method's five demands |
-| [Free-to-Paid Resource List (PDF)](/downloads/NC_Resource_Tiers.pdf) | Where to go next, sorted by what it costs |
-| [Core Framework Guide (PDF)](/downloads/Narrative_Crossroads_Framework.pdf) | The full Narrative Crossroads system |
+The [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) prints two to a page — half-sheets, one cut. The [Core Framework Guide](/downloads/Narrative_Crossroads_Framework.pdf) is the full Narrative Crossroads system. The minimum version you ran in the room is now the [Quickstart]({% link quickstart.md %}) page, which prints on its own.
+
+The toolkit function menu and the accessibility handout stayed in the room. Ask for them at <geoffrey@geoffreysperl.com> and I'll send them.
 
 ---
 
@@ -79,7 +74,7 @@ The toolkit segment's premise: strip the setting off a game and keep the procedu
 | **Structure that survives absence** | Running a unit when a third of the room is gone |
 | **Students inventing the rules** | Handing over authorship |
 
-The full menu — with a specific game behind each procedure — is in the [Toolkit Function Menu](/downloads/NC_Toolkit_Function_Menu.pdf).
+The full menu — with a specific game behind each procedure — isn't posted here. Ask at <geoffrey@geoffreysperl.com> and I'll send it.
 
 ---
 

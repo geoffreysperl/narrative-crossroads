@@ -19,7 +19,7 @@ That is close reading. It just doesn't feel like it.
 
 You don't need to be a gamer to run this. The minimum version takes one class period, a text your students have already read, and no dice at all.
 
-[**Start Here — run it Monday**]({% link start-here.md %}){: .btn .btn-primary }
+[**Quickstart — one class period**]({% link quickstart.md %}){: .btn .btn-primary }
 [Browse all free materials]({% link downloads.md %}){: .btn }
 [Download the Framework](/downloads/Narrative_Crossroads_Framework.pdf){: .btn }
 
@@ -37,8 +37,6 @@ Every character is described with the same three skills. This is the vocabulary 
 
 A character's traits become a percentage in each skill, drawn from evidence in the text. In the full framework, students roll percentile dice (D100) against those percentages to resolve what happens at a threshold moment. The minimum version uses the same three skills and no dice.
 
-[Get Started with the Method]({% link method/overview.md %}){: .btn }
-
 ---
 
 ## Who Is This For?
@@ -52,16 +50,6 @@ A character's traits become a percentage in each skill, drawn from evidence in t
 **Researchers** interested in TTRPG-based pedagogy, gaming literacy, or play-based learning.
 
 **Game designers** curious about how TTRPG mechanics can serve educational objectives.
-
----
-
-## Three Ways to Start
-
-| Approach | What it takes |
-|:---------|:--------------|
-| **The Single Crossroads** | One card, one scene, one question. One class period, no dice. [Start here]({% link start-here.md %}). |
-| **A Full Module** | A prepared text with characters, threshold moments, and question banks. [Browse modules]({% link practice/modules/index.md %}). |
-| **Your Own Build** | The framework applied to whatever you're already teaching. [Implementation guide]({% link practice/implementation-guide.md %}). |
 
 ---
 

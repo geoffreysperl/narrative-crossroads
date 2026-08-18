@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Downloads
-nav_order: 8
+nav_order: 7
 ---
 
 # Downloads
@@ -15,6 +15,14 @@ Ready-to-use modules with character profiles, threshold moments, question banks,
 | Resource | Description |
 |:---------|:------------|
 | [Narrative Crossroads Framework](/downloads/Narrative_Crossroads_Framework.pdf) | Complete system document — start here |
+
+---
+
+## Classroom Handouts
+
+| Resource | Description |
+|:---------|:------------|
+| [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) | Blank cards, two to a page — half-sheets, one cut. The one page students write on. |
 
 ---
 
