@@ -24,7 +24,7 @@ The framework combines elements from several sources:
 
 ### 1. Character Selection
 
-Students select or roll for a character from the text. Each character has pre-assigned skill percentages in three areas:
+Students select or roll 1d10 for a character from the text. Each character has pre-assigned skill percentages in three areas:
 
 | Skill | Description |
 |:------|:------------|
@@ -38,14 +38,14 @@ Students explore characters at **threshold moments**—critical turning points i
 
 ### 3. Character Interview
 
-Students roll for three questions (one from each skill category). Answering from the character's perspective deepens understanding.
+Students roll 1d10 for three questions (one from each skill category). Answering from the character's perspective deepens understanding.
 
 The final question is always: **"Who are you?"**
 
 ### 4. Decision Resolution
 
 - Students roll D100 (two ten-sided dice) against the character's skill percentage
-- Success or failure determines how the character navigates the threshold moment
+- Critical success (a tenth of the skill or less), success (at or under it), failure (over it), or critical failure (96-00) determines how the character navigates the threshold moment
 - Outcomes affect character development and narrative direction
 
 ### 5. Reflection & Analysis

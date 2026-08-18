@@ -66,7 +66,7 @@ After exploring the threshold moment, students answer interview questions from t
 
 ### Question Structure
 
-Roll or select one question from each skill category:
+Roll 1d10 or select one question from each skill category:
 
 **Confrontation Questions** — About action, conflict, physical experience
 - "What was the hardest thing you had to do?"

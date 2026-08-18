@@ -81,7 +81,7 @@ MLs benefit from **meaningful communication** rather than decontextualized drill
 The goal is **reducing linguistic complexity** while maintaining **cognitive challenge**:
 
 - ✓ Fewer rules, clearly explained with examples
-- ✓ Visual/iconic dice results (success/partial/failure) rather than numerical tables
+- ✓ Visual/iconic dice results (critical success, success, failure, critical failure) rather than numerical tables
 - ✓ Shorter scenarios that can be completed in one session
 - ✗ Don't simplify the *thinking* — character analysis should remain rigorous
 
