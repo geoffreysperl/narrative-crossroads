@@ -44,6 +44,8 @@ One **Character Frame** card per student. Four boxes, each requiring a line or p
 | **Guided by** | What rule or value do they hold? |
 | **Limited by** | What can't they do — by circumstance, ability, or position? |
 
+Print blanks from the [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) — two to a page, half-sheets, one cut.
+
 Circulate. When a student writes something vague, ask where they see it. That's the whole teacher move.
 
 ### 3. Ask the question (10–15 minutes)

@@ -2,7 +2,7 @@
 layout: default
 title: Theoretical Foundations
 parent: Method
-nav_order: 2
+nav_order: 3
 ---
 
 # Theoretical Foundations

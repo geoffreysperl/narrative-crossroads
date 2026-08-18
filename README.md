@@ -33,8 +33,15 @@ Geoffrey sponsors his school's TTRPG Club and presents on TTRPG pedagogy at conv
 
 ```
 narrative-crossroads/
+├── index.md                   # Homepage
+├── quickstart.md              # The no-dice entry version — one class period
+├── workshop.md                # Follow-up for Quest-Based Learning attendees
+├── downloads.md               # Index of printable materials
+├── acknowledgments.md
+│
 ├── method/                    # Core methodology documentation
 │   ├── overview.md            # How Narrative Crossroads works
+│   ├── why-it-works.md        # Research evidence and cognitive mechanisms
 │   ├── theoretical-foundations.md
 │   ├── gaming-literacy-model.md
 │   └── ml-scaffolding.md      # Adaptations for multilingual learners
@@ -42,17 +49,26 @@ narrative-crossroads/
 ├── practice/                  # Implementation resources
 │   ├── implementation-guide.md
 │   ├── character-analysis-tools.md
+│   ├── standards-alignment.md # Michigan ELA standards mapping
 │   └── modules/               # Text-specific applications
 │
 ├── research/                  # Scholarly foundation
 │   ├── annotated-bibliography.md
 │   └── research-gaps.md
 │
-├── presentations/             # Conference materials
-│   └── chaosiumcon-2026/
+├── resources/                 # External links and tools
+│   └── links.md
 │
-└── resources/                 # External links and tools
-    └── links.md
+├── downloads/                 # Printable PDFs served by the site
+│
+├── presentations/             # Conference and PD materials
+│   ├── chaosiumcon-2025/
+│   ├── chaosiumcon-2026/
+│   └── hamtramck-pd-2026/
+│
+└── _sass/                     # Theme customization
+    ├── color_schemes/custom.scss
+    └── custom/custom.scss     # Print styles
 ```
 
 ---
@@ -60,7 +76,7 @@ narrative-crossroads/
 ## Getting Started
 
 **For teachers:**
-Start with [method/overview.md](method/overview.md) for a conceptual introduction, then move to [practice/implementation-guide.md](practice/implementation-guide.md) for classroom logistics.
+Start with [quickstart.md](quickstart.md) — one class period, no dice, no game. Then [method/overview.md](method/overview.md) for the conceptual grounding and [practice/implementation-guide.md](practice/implementation-guide.md) for classroom logistics.
 
 **For researchers:**
 The [research/](research/) folder contains the scholarly foundation, including an annotated bibliography and identified gaps in the current literature.

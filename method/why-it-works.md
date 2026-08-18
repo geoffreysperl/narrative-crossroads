@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Why It Works
-nav_order: 3
+nav_order: 2
 parent: Method
 ---
 

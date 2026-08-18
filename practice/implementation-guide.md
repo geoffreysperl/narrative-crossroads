@@ -26,9 +26,11 @@ What helps:
 
 - [ ] Text being studied (students should have read relevant sections)
 - [ ] Character Frame worksheets (one per student or group)
-- [ ] Dice (standard six-sided dice work fine; one set per table)
+- [ ] Percentile dice — two ten-sided dice per table, one read as tens and one as units
 - [ ] Crossroads scenario (teacher-prepared or from [modules](modules/))
 - [ ] Debrief reflection prompts
+
+No dice on hand? Any online dice roller works, and so does drawing twice from a deck of cards numbered 0–9.
 
 ### Time Required
 
@@ -49,11 +51,11 @@ Before any roleplay, students analyze the character they'll be playing.
 **Individual or small group work:**
 
 1. **Identify the character** — Who are we analyzing today?
-2. **Complete the Character Frame:**
-   - What does this character want? (textual evidence required)
-   - What does this character fear?
-   - What values or rules guide this character?
-   - What resources or limitations does this character have?
+2. **Complete the Character Frame** — the same four boxes as the printed card:
+   - **Wants** — What does this character want right now? (textual evidence required)
+   - **Fears** — What are they afraid of?
+   - **Guided by** — What rule or value do they hold?
+   - **Limited by** — What can't they do, by circumstance, ability, or position?
 
 **Teacher moves:**
 - Circulate and push for textual evidence
@@ -74,15 +76,25 @@ The teacher (as GM) describes the scenario:
 
 ### Phase 3: Play the Crossroads (15-25 min)
 
+The [Quickstart]({% link quickstart.md %}) runs this phase with no dice at all. Add them once the basic move is working — not because dice make it more advanced, but because they give the Character Frame consequences. The skill percentage is an interpretive claim the student argued from the text, and the roll is what puts that claim under pressure.
+
 **Basic mechanic:**
 
 1. Player describes what their character attempts
-2. If outcome is uncertain, roll a die:
-   - **High roll (5-6):** Success — it works as intended
-   - **Middle roll (3-4):** Partial success — it works, but with a complication
-   - **Low roll (1-2):** Failure — it doesn't work, or works with serious consequences
-3. GM narrates the outcome
-4. Continue until the crossroads resolves
+2. Identify which skill applies — Confrontation, Comprehension, or Connection
+3. If the outcome is uncertain, roll D100 (two ten-sided dice) against that skill's percentage:
+
+| Roll | Result |
+|:-----|:-------|
+| **01 to one tenth of [Skill %]** | **Critical Success** — It works, and something goes better than expected |
+| **01-[Skill %]** | **Success** — It works as intended |
+| **[Skill %+1]-95** | **Failure** — It doesn't work, or backfires |
+| **96-00** | **Critical Failure** — Something goes very wrong |
+
+*Rolling equal to or under your skill percentage succeeds. Roll a tenth of that or less — 7 or under on a 70% skill — and it's a critical success.*
+
+4. GM narrates the outcome
+5. Continue until the crossroads resolves
 
 **Teacher as GM:**
 - Ask clarifying questions: "How exactly do you do that?"

@@ -48,11 +48,12 @@ Roll two ten-sided dice (2D10). One die represents tens, the other units.
 
 | Roll | Result |
 |:-----|:-------|
+| **01 to one tenth of [Skill %]** | **Critical Success** — It works, and something goes better than expected |
 | **01-[Skill %]** | **Success** — It works as intended |
 | **[Skill %+1]-95** | **Failure** — It doesn't work, or backfires |
 | **96-00** | **Critical Failure** — Something goes very wrong |
 
-*Note: Rolling equal to or under your skill percentage succeeds.*
+*Rolling equal to or under your skill percentage succeeds. Roll a tenth of that or less — 7 or under on a 70% skill — and it's a critical success.*
 
 ### 4. Narrate the Outcome
 The GM (teacher) describes what happens based on the roll.
@@ -91,6 +92,8 @@ This open question invites synthesis—students must articulate the character's 
 
 *For students to complete before play.*
 
+The four profile boxes below are the same four on the printable [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) — print that if you want them on paper. The skills table is what this worksheet adds: the full method needs skill percentages, and the card doesn't carry them.
+
 ### Character: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 ### Text: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 ### Threshold Moment: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
@@ -109,15 +112,19 @@ This open question invites synthesis—students must articulate the character's 
 
 #### Character Profile
 
-**What does this character want?**
+**Wants** — What does this character want right now?
 
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
-**What does this character fear?**
+**Fears** — What are they afraid of?
 
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
-**What rules or values guide this character?**
+**Guided by** — What rule or value do they hold?
+
+&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
+
+**Limited by** — What can't they do — by circumstance, ability, or position?
 
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
