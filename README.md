@@ -86,6 +86,27 @@ The [method/gaming-literacy-model.md](method/gaming-literacy-model.md) explains 
 
 ---
 
+## Local Development
+
+The site is built by GitHub Pages. To run it locally with the same Jekyll
+version GitHub uses:
+
+```
+bundle install
+bin/serve
+```
+
+Then open <http://127.0.0.1:4000>.
+
+`Gemfile` pins the `github-pages` gem, so a local build matches the deployed
+one. `github-pages` requires Ruby >= 2.7; macOS ships 2.6, and `bin/serve`
+will reach for a Homebrew Ruby if the default is too old.
+
+The Just the Docs theme is pinned by version in `_config.yml`. Unpinned, it
+tracks the theme's default branch and can change without a commit here.
+
+---
+
 ## Related Resources
 
 - [TabletopEDU](https://www.tabletopEDU.org) — Nonprofit organization advancing TTRPGs in education

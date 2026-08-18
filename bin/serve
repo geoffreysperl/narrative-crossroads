@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# Run the site locally with the same Jekyll version GitHub Pages uses.
+# Usage: bin/serve [extra jekyll args]
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+# github-pages needs Ruby >= 2.7; macOS ships 2.6. Prefer a Homebrew Ruby
+# when the default is too old, but don't override a working one.
+if ! ruby -e 'exit(RUBY_VERSION.split(".").map(&:to_i) <=> [2,7,0])' 2>/dev/null; then
+  for candidate in /opt/homebrew/opt/ruby@3.3/bin /opt/homebrew/opt/ruby/bin /usr/local/opt/ruby/bin; do
+    if [ -x "$candidate/ruby" ]; then PATH="$candidate:$PATH"; break; fi
+  done
+fi
+export PATH
+
+exec bundle exec jekyll serve --host 127.0.0.1 --port 4000 "$@"

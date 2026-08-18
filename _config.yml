@@ -1,7 +1,13 @@
 title: Narrative Crossroads
 description: Character Analysis through Roleplaying for Literary and Historical Study
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+
+# Plugins. Both are supported by GitHub Pages; declaring them here means a
+# local `bundle exec jekyll build` behaves the same as the deployed build.
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 url: https://narrativecrossroads.org
 

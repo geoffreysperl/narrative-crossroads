@@ -1,6 +1,6 @@
 // Print styles
 // Strips the site furniture so a page can be printed and written on.
-// Written for the Quickstart, applied site-wide — any page prints the same way.
+// Written for the Quickstart, applied site-wide -- any page prints the same way.
 
 @media print {
   // 1. Remove everything that is navigation, search, or chrome.
@@ -24,8 +24,8 @@
     display: none !important;
   }
 
-  // The Quickstart's reference tail — the print-resource table, the ML notes,
-  // the "go read this next" link lists — is navigation, not procedure. On paper
+  // The Quickstart's reference tail -- the print-resource table, the ML notes,
+  // the "go read this next" link lists -- is navigation, not procedure. On paper
   // it costs a second sheet and nothing on it can be acted on with a pen.
   // Everything from that heading down is dropped so the printed artifact is
   // exactly the runnable recipe. All of it still shows on screen.
@@ -36,7 +36,7 @@
   }
 
   // With that section gone, the rule above it is a divider with nothing under
-  // it — and its trailing margin was enough to spill a blank second sheet.
+  // it -- and its trailing margin was enough to spill a blank second sheet.
   hr:has(+ #what-to-print) {
     display: none !important;
   }
