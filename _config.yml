@@ -57,3 +57,9 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  # Planning notes, kept in the repo but not published. nav_exclude only
+  # hides a page from the sidebar; it stays reachable by URL and stays in
+  # the search index. Excluding the directory is what actually unpublishes it.
+  - presentations/
+  # Local tooling — no reason to serve it.
+  - bin/
