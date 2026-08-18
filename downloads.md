@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Downloads
-nav_order: 6
+nav_order: 8
 ---
 
 # Downloads
 
-Ready-to-use modules with character profiles, liminal spaces, question banks, and implementation guidelines.
+Ready-to-use modules with character profiles, threshold moments, question banks, and implementation guidelines.
 
 ---
 
@@ -40,7 +40,7 @@ Ready-to-use modules with character profiles, liminal spaces, question banks, an
 ## What's in Each Module
 
 1. **Character Profiles** — Pre-assigned skill percentages for Confrontation, Comprehension, and Connection
-2. **Liminal Spaces** — Threshold moments with decision points and skill checks
+2. **Threshold Moments** — Critical turning points with decision points and skill checks
 3. **Question Banks** — Interview questions organized by skill category
 4. **Implementation Guidelines** — Setup, timing, and facilitation notes
 

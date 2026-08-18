@@ -32,9 +32,10 @@ Students select or roll for a character from the text. Each character has pre-as
 | **Comprehension** | Understanding situations and insights |
 | **Connection** | Social interactions and relationships |
 
-### 2. Liminal Space Exploration
+### 2. Threshold Moment Exploration
+{: #2-liminal-space-exploration }
 
-Students explore characters at **threshold moments**—critical turning points in the text. Each space presents 1-2 key decisions requiring skill checks.
+Students explore characters at **threshold moments**—critical turning points in the text. Each moment presents 1-2 key decisions requiring skill checks.
 
 ### 3. Character Interview
 
@@ -45,7 +46,7 @@ The final question is always: **"Who are you?"**
 ### 4. Decision Resolution
 
 - Students roll D100 (two ten-sided dice) against the character's skill percentage
-- Success or failure determines how the character navigates the liminal space
+- Success or failure determines how the character navigates the threshold moment
 - Outcomes affect character development and narrative direction
 
 ### 5. Reflection & Analysis
@@ -106,7 +107,7 @@ The framework aligns with ELA standards including character analysis, evidence-b
 
 ## Downloads
 
-Ready-to-use modules with character profiles, liminal spaces, question banks, and implementation guidelines:
+Ready-to-use modules with character profiles, threshold moments, question banks, and implementation guidelines:
 
 - [Narrative Crossroads Framework](/downloads/Narrative_Crossroads_Framework.pdf) — Core system document
 - [The Most Dangerous Game](/downloads/NC_MDG.pdf)

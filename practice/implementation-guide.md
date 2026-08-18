@@ -165,9 +165,9 @@ Observe and note:
 ### Connecting to Standards
 
 Narrative Crossroads supports ELA standards including:
-- Cite textual evidence to support analysis (CCSS.ELA-LITERACY.RL.9-10.1)
-- Analyze character development (CCSS.ELA-LITERACY.RL.9-10.3)
-- Participate in collaborative discussions (CCSS.ELA-LITERACY.SL.9-10.1)
+- Cite textual evidence to support analysis (RL.9-10.1)
+- Analyze character development (RL.9-10.3)
+- Participate in collaborative discussions (SL.9-10.1)
 
 ---
 

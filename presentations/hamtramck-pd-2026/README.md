@@ -18,13 +18,6 @@ Teacher team-building workshop using *No Thank You, Evil!* for Hamtramck Public 
 
 ---
 
-## Key Contacts
-
-- Heather Kuehneman
-- Shawn Shackelford
-
----
-
 ## Materials to Develop
 
 - [ ] Session proposal

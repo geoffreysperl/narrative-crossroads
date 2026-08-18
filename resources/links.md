@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-nav_order: 5
+nav_order: 7
 ---
 
 # Resources & Links
@@ -53,6 +53,22 @@ Annual Trade Day programming includes educator sessions. Major networking opport
 
 - **Classcraft** — Gamification platform with RPG elements (not a TTRPG but related)
 - **Mythic** — GM emulator useful for solo or small group play
+
+---
+
+## Safety Tools
+
+Consent and calibration tools that let a student step away from content without having to explain why. Worth establishing before any roleplay — and especially with the threshold moments this method is built around, which are chosen precisely because they are difficult.
+
+### TTRPG Safety Toolkit
+[bit.ly/ttrpgsafetytoolkit](https://bit.ly/ttrpgsafetytoolkit)
+
+Compiled by Kienna Shaw and Lauren Bryant-Monk. A free, regularly updated collection of safety and calibration tools — Lines and Veils, Script Change, the X-Card, and others — with a printable guide and cards. The standard reference on the topic; start here.
+
+### X-Card
+[tinyurl.com/x-card-rpg](https://tinyurl.com/x-card-rpg)
+
+John Stavropoulos's one-page tool: any participant can tap the card to remove content from the scene, no explanation required. The lowest-overhead option, and the easiest to introduce to a class in under a minute.
 
 ---
 

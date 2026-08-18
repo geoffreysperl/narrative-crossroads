@@ -61,7 +61,7 @@ The GM (teacher) describes what happens based on the roll.
 
 ## Character Interview
 
-After exploring the liminal space, students answer interview questions from the character's perspective.
+After exploring the threshold moment, students answer interview questions from the character's perspective.
 
 ### Question Structure
 
@@ -91,9 +91,9 @@ This open question invites synthesis—students must articulate the character's 
 
 *For students to complete before play.*
 
-### Character: _______________
-### Text: _______________
-### Liminal Space: _______________
+### Character: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
+### Text: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
+### Threshold Moment: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
 ---
 
@@ -101,9 +101,9 @@ This open question invites synthesis—students must articulate the character's 
 
 | Skill | Percentage | Textual Evidence |
 |:------|:-----------|:-----------------|
-| Confrontation | ___% | |
-| Comprehension | ___% | |
-| Connection | ___% | |
+| Confrontation | &#95;&#95;&#95;% | |
+| Comprehension | &#95;&#95;&#95;% | |
+| Connection | &#95;&#95;&#95;% | |
 
 ---
 
@@ -111,15 +111,15 @@ This open question invites synthesis—students must articulate the character's 
 
 **What does this character want?**
 
-_________________________________________________________________
+&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
 **What does this character fear?**
 
-_________________________________________________________________
+&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
 **What rules or values guide this character?**
 
-_________________________________________________________________
+&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
 ---
 
@@ -148,4 +148,4 @@ After play, students reflect:
 ## Downloads
 
 - [Narrative Crossroads Framework](/downloads/Narrative_Crossroads_Framework.pdf) — Complete system document
-- [Text-specific modules]({% link practice/modules/index.md %}) — Ready-to-use character profiles and liminal spaces
+- [Text-specific modules]({% link practice/modules/index.md %}) — Ready-to-use character profiles and threshold moments

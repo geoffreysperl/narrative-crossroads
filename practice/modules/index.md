@@ -7,7 +7,7 @@ nav_order: 3
 
 # Modules
 
-Text-specific Narrative Crossroads modules with character profiles, liminal spaces, question banks, and implementation guidelines.
+Text-specific Narrative Crossroads modules with character profiles, threshold moments, question banks, and implementation guidelines.
 
 ---
 
@@ -29,7 +29,7 @@ Text-specific Narrative Crossroads modules with character profiles, liminal spac
 Each module includes:
 
 1. **Character Profiles** — Pre-assigned skill percentages for Confrontation, Comprehension, and Connection
-2. **Liminal Spaces** — Threshold moments with decision points and skill checks
+2. **Threshold Moments** — Critical turning points with decision points and skill checks
 3. **Question Banks** — Interview questions organized by skill category
 4. **Implementation Guidelines** — Setup, timing, and facilitation notes
 
@@ -42,7 +42,7 @@ Use the [Historical Template](/downloads/NC_Historical_Template.pdf) as a starti
 ### Key Elements
 
 1. **Select 3-5 characters** with distinct skill profiles
-2. **Identify 2-3 liminal spaces** — threshold moments with meaningful choices
+2. **Identify 2-3 threshold moments** — critical turning points with meaningful choices
 3. **Write 6-9 interview questions** — 2-3 per skill category
 4. **Define success/failure outcomes** for each decision point
 
