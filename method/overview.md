@@ -33,7 +33,7 @@ Students select or roll for a character from the text. Each character has pre-as
 | **Connection** | Social interactions and relationships |
 
 ### 2. Threshold Moment Exploration
-{: #2-liminal-space-exploration }
+{: id="2-liminal-space-exploration" }
 
 Students explore characters at **threshold moments**—critical turning points in the text. Each moment presents 1-2 key decisions requiring skill checks.
 
