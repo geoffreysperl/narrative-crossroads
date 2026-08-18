@@ -89,7 +89,7 @@ Examines the relationship between oral and written traditions. Relevant for unde
 
 ## Practitioner Resources
 
-### Munro, G., & Cullinan, M. (2025). *Adventures in Learning & Teaching: Designing Roleplaying Game Resources, Essays, and Encounters*. TabletopEDU Inc.
+### Munro, G., & Cullinan, M. (2025). *Adventures in Teaching and Learning with TTRPGs*. TabletopEDU Inc.
 
 Comprehensive practitioner guide from the TabletopEDU organization. Covers theory, implementation, and provides sample modules. Excellent companion to Narrative Crossroads for educators new to TTRPG pedagogy.
 

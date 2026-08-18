@@ -114,7 +114,7 @@ tracks the theme's default branch and can change without a commit here.
 ## Related Resources
 
 - [TabletopEDU](https://www.tabletopEDU.org) — Nonprofit organization advancing TTRPGs in education
-- [Adventures in Learning & Teaching](https://www.tabletopEDU.org) — Practitioner guide by Garrett Munro and Maryanne Cullinan, PhD
+- [Adventures in Teaching and Learning with TTRPGs](https://www.tabletopEDU.org) — Practitioner guide by Garrett Munro and Maryanne Cullinan, PhD
 
 ---
 

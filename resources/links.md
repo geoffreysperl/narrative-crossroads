@@ -15,7 +15,7 @@ External resources for TTRPG-based education.
 ### TabletopEDU
 [tabletopEDU.org](https://www.tabletopEDU.org)
 
-501(c)(3) nonprofit dedicated to advancing TTRPGs in education. Co-directed by Garrett Munro and Maryanne Cullinan, PhD. Excellent resources, community, and their book *Adventures in Learning & Teaching* is essential reading.
+501(c)(3) nonprofit dedicated to advancing TTRPGs in education. Co-directed by Garrett Munro and Maryanne Cullinan, PhD. Excellent resources, community, and their book *Adventures in Teaching and Learning with TTRPGs* is essential reading.
 
 ### Game to Grow
 [gametogrow.org](https://www.gametogrow.org)
@@ -76,7 +76,7 @@ John Stavropoulos's one-page tool: any participant can tap the card to remove co
 
 ### Practitioner Guides
 
-- Munro, G., & Cullinan, M. (2025). *Adventures in Learning & Teaching*. TabletopEDU Inc.
+- Munro, G., & Cullinan, M. (2025). *Adventures in Teaching and Learning with TTRPGs*. TabletopEDU Inc.
 - Peterson, J. (2012). *Playing at the World*. (History of D&D and wargaming)
 
 ### Academic

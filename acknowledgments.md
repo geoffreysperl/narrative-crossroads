@@ -43,7 +43,7 @@ This product is the original work of Geoffrey Sperl.
 
 [TabletopEDU](https://www.tabletopEDU.org) is a 501(c)(3) nonprofit dedicated to advancing TTRPGs in education. Their work has been invaluable to the broader field.
 
-See: Munro, G., & Cullinan, M. (2025). *Adventures in Learning & Teaching: Designing Roleplaying Game Resources, Essays, and Encounters*. TabletopEDU Inc.
+See: Munro, G., & Cullinan, M. (2025). *Adventures in Teaching and Learning with TTRPGs*. TabletopEDU Inc.
 
 ---
 
