@@ -6,7 +6,7 @@
 
 ## What is Narrative Crossroads?
 
-Narrative Crossroads adapts the decision-making structures of tabletop roleplaying games (TTRPGs) to help students analyze literary characters from the inside out. Rather than observing characters from a critical distance, students step into pivotal moments—*crossroads*—where characters face meaningful choices, then use structured mechanics to explore motivation, consequence, and agency.
+Narrative Crossroads adapts the decision-making structures of tabletop roleplaying games (TTRPGs) to help students analyze literary characters from the inside out. Rather than observing characters from a critical distance, students step into **threshold moments**—points where a character could genuinely have chosen otherwise—then use structured mechanics to explore motivation, consequence, and agency.
 
 The method is grounded in three intersecting literacy frameworks:
 
@@ -22,7 +22,7 @@ Narrative Crossroads is designed for secondary ELA classrooms and works particul
 
 **Geoffrey Sperl** is an ELA/ESL teacher at Hamtramck High School in Michigan. He developed Narrative Crossroads as part of his MAT thesis, *The Effects of Playing Tabletop Roleplaying Games in the Classroom on the Academic Literacy of Secondary Students* (Wayne State University, 2025).
 
-Geoffrey sponsors his school's TTRPG Club and presents on TTRPG pedagogy at conventions including ChaosiumCon.
+Geoffrey sponsors his school's tabletop gaming club and presents on TTRPG pedagogy at conventions including ChaosiumCon.
 
 - Website: [teaching.geoffreysperl.com](https://teaching.geoffreysperl.com)
 - Contact: [geoffrey@geoffreysperl.com](mailto:geoffrey@geoffreysperl.com)
@@ -66,9 +66,13 @@ narrative-crossroads/
 │   ├── chaosiumcon-2026/
 │   └── hamtramck-pd-2026/
 │
-└── _sass/                     # Theme customization
-    ├── color_schemes/custom.scss
-    └── custom/custom.scss     # Print styles
+├── _sass/                     # Theme customization
+│   ├── color_schemes/custom.scss
+│   └── custom/custom.scss     # Print styles (Quickstart prints on one sheet)
+│
+├── bin/serve                  # Run the site locally on the pinned toolchain
+├── Gemfile                    # Pins Jekyll to the version GitHub Pages runs
+└── _config.yml                # Theme pinned by version; see Local Development
 ```
 
 ---

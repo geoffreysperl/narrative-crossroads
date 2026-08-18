@@ -26,7 +26,7 @@ The three claims from the session, in order:
 
 1. **The card is the stick.** A child with a stick is a knight. A student with a character card is inside the text. The prop does the work of imagination that instruction alone can't assign.
 2. **You don't adopt a game. You steal its procedures.** A game is a setting plus a set of procedures. The procedures are what your classroom wants.
-3. **One card, one scene, one question.** Everything else is elaboration.
+3. **The minimum is one card, one scene, one question.** Everything else is elaboration.
 
 ---
 
