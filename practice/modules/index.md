@@ -15,7 +15,7 @@ Text-specific Narrative Crossroads modules with character profiles, threshold mo
 
 | Module | Download | Description |
 |:-------|:---------|:------------|
-| **Solo SRD** | [PDF](/downloads/Narrative_Crossroads_Solo_SRD.pdf) | The system itself — modules below are content built on it |
+| **Solo Framework SRD** | [PDF](/downloads/Narrative_Crossroads_Framework.pdf) | The system itself — modules below are content built on it |
 | **The Most Dangerous Game** | [PDF](/downloads/NC_MDG.pdf) | Rainsford's moral dilemma |
 | **The Interlopers** | [PDF](/downloads/NC_Interlopers.pdf) | The feud's psychological impact |
 | **The Outsider** | [PDF](/downloads/NC_Outsider.pdf) | Search for identity |

@@ -107,7 +107,7 @@ The framework aligns with ELA standards including character analysis, evidence-b
 
 Ready-to-use modules with character profiles, threshold moments, question banks, and implementation guidelines:
 
-- [Narrative Crossroads Solo SRD]({% link solo-srd.md %}) — the Solo System Reference Document: the reusable core of the system ([PDF](/downloads/Narrative_Crossroads_Solo_SRD.pdf))
+- [Narrative Crossroads Solo Framework SRD]({% link solo-srd.md %}) — the System Reference Document: the reusable core of the system ([PDF](/downloads/Narrative_Crossroads_Framework.pdf))
 - [The Most Dangerous Game](/downloads/NC_MDG.pdf)
 - [The Interlopers](/downloads/NC_Interlopers.pdf)
 - [The Outsider](/downloads/NC_Outsider.pdf)

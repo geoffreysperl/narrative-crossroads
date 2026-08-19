@@ -1,18 +1,18 @@
 ---
-title: Solo SRD
+title: Solo Framework SRD
 layout: default
 nav_order: 3
-description: The Narrative Crossroads Solo System Reference Document — the three lenses, the round, and the Character Frame.
+description: The Narrative Crossroads Solo Framework SRD — the three lenses, the round, and the Character Frame.
 ---
 
-# Narrative Crossroads Solo SRD
+# Narrative Crossroads Solo Framework SRD
 {: .no_toc }
 
-This is the **Solo System Reference Document** for Narrative Crossroads. An **SRD** is the reusable core of a game's rules, published under a license that lets anyone build on it — take what's here, change it, and use it in your classroom or in something you make yourself.
+This is the **Solo Framework SRD** for Narrative Crossroads — its **System Reference Document**. An SRD is the reusable core of a game's rules, published under a license that lets anyone build on it — take what's here, change it, and use it in your classroom or in something you make yourself.
 
 **Solo** here is the tabletop sense, not the classroom one: each student plays alone, all at once. The class discussion afterward is the other half of the method.
 
-This page is the canonical version. A [PDF](/downloads/Narrative_Crossroads_Solo_SRD.pdf) is available for printing, but the page is the reference — quote it, link to any section, adapt it.
+This page is the canonical version. A [PDF](/downloads/Narrative_Crossroads_Framework.pdf) is available for printing, but the page is the reference — quote it, link to any section, adapt it.
 
 A **group version** of Narrative Crossroads is in development and will be released under a different license.
 
@@ -21,7 +21,7 @@ A **group version** of Narrative Crossroads is in development and will be releas
 ## What Is and Isn't in Here
 {: #scope }
 
-The Solo SRD is the **system**:
+The Solo Framework SRD is the **system**:
 
 - The three lenses
 - The round
@@ -114,7 +114,7 @@ Use the [Historical Template](/downloads/NC_Historical_Template.pdf) as a starti
 ## License
 {: #license }
 
-The Narrative Crossroads Solo SRD is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The Narrative Crossroads Solo Framework SRD is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 > Narrative Crossroads by Geoffrey Sperl is licensed under CC BY 4.0.
 > <https://narrativecrossroads.org>
@@ -129,4 +129,4 @@ You are free to share and adapt this material, including commercially, provided 
 - [Quickstart]({% link quickstart.md %}) — run one round in a single class period
 - [Implementation Guide]({% link practice/implementation-guide.md %}) — session structure, grouping, troubleshooting
 - [Character Analysis Tools]({% link practice/character-analysis-tools.md %}) — the worksheet and reflection prompts
-- [Downloads]({% link downloads.md %}) — the printable Solo SRD and the literary modules
+- [Downloads]({% link downloads.md %}) — the printable Solo Framework SRD and the literary modules

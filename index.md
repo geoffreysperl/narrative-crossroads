@@ -21,7 +21,7 @@ You don't need to be a gamer to run this. It's a solo journaling game played by 
 
 [**Quickstart — one class period**]({% link quickstart.md %}){: .btn .btn-primary }
 [Browse all free materials]({% link downloads.md %}){: .btn }
-[Read the Solo SRD]({% link solo-srd.md %}){: .btn }
+[Read the Solo Framework SRD]({% link solo-srd.md %}){: .btn }
 
 **Everything on this site is free** under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — download it, print it, adapt it, use it with your students. No account, no email, no paywall.
 

@@ -32,7 +32,7 @@ The three claims from the session, in order:
 
 ## Session Materials
 
-The [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) prints two to a page — half-sheets, one cut. The [Solo SRD]({% link solo-srd.md %}) — the Solo System Reference Document — is the full Narrative Crossroads system. The minimum version you ran in the room is now the [Quickstart]({% link quickstart.md %}) page, which prints on its own.
+The [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) prints two to a page — half-sheets, one cut. The [Solo Framework SRD]({% link solo-srd.md %}) — the System Reference Document — is the full Narrative Crossroads system. The minimum version you ran in the room is now the [Quickstart]({% link quickstart.md %}) page, which prints on its own.
 
 The toolkit function menu and the accessibility handout stayed in the room. Ask for them at <geoffrey@geoffreysperl.com> and I'll send them.
 

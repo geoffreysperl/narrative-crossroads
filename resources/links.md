@@ -27,7 +27,7 @@ Nonprofit using TTRPGs for social-emotional learning, particularly with neurodiv
 ## Conventions & Professional Development
 
 ### ChaosiumCon
-[chaosium.com/chaosiumcon](https://www.chaosium.com/chaosiumcon/)
+[chaosium.com](https://www.chaosium.com/)
 
 Annual convention hosted by Chaosium (publishers of Call of Cthulhu, Basic Roleplaying). Education-friendly programming. I've presented here on TTRPG pedagogy.
 
