@@ -77,7 +77,7 @@ You are not looking for the right answer. You are looking for readings the text 
 | Resource | What it is |
 | --- | --- |
 | [Character Frame Card (PDF)](/downloads/NC_Character_Frame_Card.pdf) | Blank cards, two to a page — half-sheets, one cut |
-| [Solo SRD (PDF)](/downloads/Narrative_Crossroads_Framework.pdf) | The Solo System Reference Document — the full system, once you want more than the minimum. The [web version]({% link solo-srd.md %}) is canonical. |
+| [Solo SRD (PDF)](/downloads/Narrative_Crossroads_Solo_SRD.pdf) | The Solo System Reference Document — the full system, once you want more than the minimum. The [web version]({% link solo-srd.md %}) is canonical. |
 
 Ready-made scenes for specific texts are on the [Downloads]({% link downloads.md %}) page — *The Most Dangerous Game*, *The Interlopers*, *The Outsider*, *Romeo and Juliet*, and a template for historical figures.
 

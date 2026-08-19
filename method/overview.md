@@ -107,7 +107,7 @@ The framework aligns with ELA standards including character analysis, evidence-b
 
 Ready-to-use modules with character profiles, threshold moments, question banks, and implementation guidelines:
 
-- [Narrative Crossroads Solo SRD]({% link solo-srd.md %}) — the Solo System Reference Document: the reusable core of the system ([PDF](/downloads/Narrative_Crossroads_Framework.pdf))
+- [Narrative Crossroads Solo SRD]({% link solo-srd.md %}) — the Solo System Reference Document: the reusable core of the system ([PDF](/downloads/Narrative_Crossroads_Solo_SRD.pdf))
 - [The Most Dangerous Game](/downloads/NC_MDG.pdf)
 - [The Interlopers](/downloads/NC_Interlopers.pdf)
 - [The Outsider](/downloads/NC_Outsider.pdf)
@@ -119,7 +119,3 @@ Ready-to-use modules with character profiles, threshold moments, question banks,
 ## Acknowledgments
 
 Narrative Crossroads was inspired in part by Spring Villager's *Last Tea Shop Complete*. The game format of *Last Tea Shop Complete* is open for hacking and remixing under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
-
-*This product is licensed under the ORC License held in the Library of Congress at TX-307-067 and available online at various locations including [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense).*
-
-*BRP and Basic Roleplaying are trademarks of Chaosium Inc.*

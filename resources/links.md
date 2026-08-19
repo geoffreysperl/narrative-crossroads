@@ -56,6 +56,52 @@ Annual Trade Day programming includes educator sessions. Major networking opport
 
 ---
 
+## Starting Cheap: Games by Cost
+
+Almost everything you need to run Narrative Crossroads is free. This tier list comes from the Quest-Based Learning handout; prices are approximate, so confirm before buying.
+
+### Free — start here
+
+Several of these publish an **SRD** (System Reference Document): the reusable core of a game's rules, released under a license that lets anyone build on it. An SRD is the whole game's engine, free and legal to adapt — which is why they make good raw material for a classroom.
+
+| Resource | What it is |
+|:---------|:-----------|
+| [Lasers & Feelings](http://onesevendesign.com) | John Harper's one-page, endlessly hackable RPG |
+| [Grant Howitt's one-page RPGs](https://gshowitt.itch.io) | Dozens of complete games, one page each |
+| [D&D free rules](https://dndbeyond.com/sources/basic-rules) | The basic rules, free to read |
+| [Ironsworn](https://ironswornrpg.com) | Free, and built for solo play — the closest cousin to this method |
+| [Fate SRD](https://fate-srd.com) | The Fate system's SRD |
+| [Dungeon World SRD](https://www.dungeonworldsrd.com) | The Dungeon World SRD |
+| [Blades in the Dark](https://bladesinthedark.com) | Rules reference, free to read |
+| Descended from the Queen | A license and format for building a prompt-card game for any text or relationship. *(Link pending — see note below.)* |
+| [itch.io physical games](https://itch.io/physical-games) | Filter for free or pay-what-you-want |
+| [DriveThruRPG](https://drivethrurpg.com) | Same, with a larger back catalogue |
+
+Free safety tools are in [Safety Tools](#safety-tools) below, and the educator communities are under [Organizations](#organizations) above.
+
+### Low-cost — a few dollars
+
+| Resource | Approx. | What it is |
+|:---------|:--------|:-----------|
+| [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) | $13 | Build a community's world together before you analyze it |
+| [Microscope](https://lamemage.com/microscope) | $20 | Collaborative, nonlinear history-building |
+| [For the Queen](https://evilhat.com) | $15 | Relationship prompts — or build your own free from Descended from the Queen above |
+
+### Worth paying for — depth, or ready to run
+
+| Resource | Approx. | What it is |
+|:---------|:--------|:-----------|
+| [Fiasco](https://bullypulpitgames.com) | $25 | GM-less stories of ordinary people making bad decisions with consequences |
+| [Wanderhome](https://possumcreekgames.com) | $25 | Gentle, GM-less; strong for multilingual learners and younger students |
+| [No Thank You, Evil!](https://montecookgames.com) | $50 | A complete, kid-friendly RPG in a box |
+| [*Adventures in Teaching and Learning with TTRPGs*](https://www.tabletopEDU.org) | — | The educator's book (TabletopEDU, 2025). Get the PDF — it's better edited than the original print run |
+
+Everything in the free tier is enough to start.
+
+*Descended from the Queen:* the URL on the printed handout (`buriedwithoutceremony.com/descended-from-the-queen`) returns a 404, and I couldn't confirm a current home for it, so the entry is unlinked for now.
+
+---
+
 ## Safety Tools
 
 Consent and calibration tools that let a student step away from content without having to explain why. Worth establishing before any roleplay — and especially with the threshold moments this method is built around, which are chosen precisely because they are difficult.

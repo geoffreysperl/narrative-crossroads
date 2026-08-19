@@ -14,7 +14,7 @@ Ready-to-use modules with character profiles, threshold moments, question banks,
 
 | Resource | Description |
 |:---------|:------------|
-| [Narrative Crossroads Solo SRD](/downloads/Narrative_Crossroads_Framework.pdf) | The Solo System Reference Document — the reusable core of the system, in print form. The [web version]({% link solo-srd.md %}) is canonical. |
+| [Narrative Crossroads Solo SRD](/downloads/Narrative_Crossroads_Solo_SRD.pdf) | The Solo System Reference Document — the reusable core of the system, in print form. The [web version]({% link solo-srd.md %}) is canonical. |
 
 ---
 

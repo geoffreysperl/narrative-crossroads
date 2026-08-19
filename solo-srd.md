@@ -12,7 +12,7 @@ This is the **Solo System Reference Document** for Narrative Crossroads. An **SR
 
 **Solo** here is the tabletop sense, not the classroom one: each student plays alone, all at once. The class discussion afterward is the other half of the method.
 
-This page is the canonical version. A [PDF](/downloads/Narrative_Crossroads_Framework.pdf) is available for printing, but the page is the reference — quote it, link to any section, adapt it.
+This page is the canonical version. A [PDF](/downloads/Narrative_Crossroads_Solo_SRD.pdf) is available for printing, but the page is the reference — quote it, link to any section, adapt it.
 
 A **group version** of Narrative Crossroads is in development and will be released under a different license.
 
