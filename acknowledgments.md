@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acknowledgments
-nav_order: 8
+nav_order: 9
 ---
 
 # Acknowledgments
@@ -26,14 +26,6 @@ You are free to:
 
 Under the following terms:
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-### Basic Roleplaying
-
-This product is licensed under the **ORC License** held in the Library of Congress at TX-307-067 and available online at [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense).
-
-This product is the original work of Geoffrey Sperl.
-
-**BRP** and **Basic Roleplaying** are trademarks of Chaosium Inc.
 
 ---
 

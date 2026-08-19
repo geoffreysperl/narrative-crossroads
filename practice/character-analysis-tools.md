@@ -133,5 +133,5 @@ After the harvest, students reflect:
 
 ## Downloads
 
-- [Narrative Crossroads Framework](/downloads/Narrative_Crossroads_Framework.pdf) — Complete system document
+- [Narrative Crossroads Solo SRD]({% link solo-srd.md %}) — the Solo System Reference Document, the reusable core of the system ([PDF](/downloads/Narrative_Crossroads_Framework.pdf))
 - [Text-specific modules]({% link practice/modules/index.md %}) — Ready-to-use characters and threshold moments

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Downloads
-nav_order: 7
+nav_order: 8
 ---
 
 # Downloads
@@ -10,11 +10,11 @@ Ready-to-use modules with character profiles, threshold moments, question banks,
 
 ---
 
-## Core Framework
+## Core System
 
 | Resource | Description |
 |:---------|:------------|
-| [Narrative Crossroads Framework](/downloads/Narrative_Crossroads_Framework.pdf) | Complete system document — start here |
+| [Narrative Crossroads Solo SRD](/downloads/Narrative_Crossroads_Framework.pdf) | The Solo System Reference Document — the reusable core of the system, in print form. The [web version]({% link solo-srd.md %}) is canonical. |
 
 ---
 
