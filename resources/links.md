@@ -73,7 +73,7 @@ Several of these publish an **SRD** (System Reference Document): the reusable co
 | [Fate SRD](https://fate-srd.com) | The Fate system's SRD |
 | [Dungeon World SRD](https://www.dungeonworldsrd.com) | The Dungeon World SRD |
 | [Blades in the Dark](https://bladesinthedark.com) | Rules reference, free to read |
-| Descended from the Queen | A license and format for building a prompt-card game for any text or relationship. *(Link pending — see note below.)* |
+| [Descended from the Queen](https://forthequeengame.com/) | Alex Roberts's *For the Queen* SRD, free under CC BY 3.0 — build a prompt-card game for any text or relationship. "Descended from the Queen" is the shared branding for games built on it. |
 | [itch.io physical games](https://itch.io/physical-games) | Filter for free or pay-what-you-want |
 | [DriveThruRPG](https://drivethrurpg.com) | Same, with a larger back catalogue |
 
@@ -85,7 +85,7 @@ Free safety tools are in [Safety Tools](#safety-tools) below, and the educator c
 |:---------|:--------|:-----------|
 | [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) | $13 | Build a community's world together before you analyze it |
 | [Microscope](https://lamemage.com/microscope) | $20 | Collaborative, nonlinear history-building |
-| [For the Queen](https://evilhat.com) | $15 | Relationship prompts — or build your own free from Descended from the Queen above |
+| [For the Queen](https://evilhat.com) | $15 | Relationship prompts — or build your own free from its SRD, linked above |
 
 ### Worth paying for — depth, or ready to run
 
@@ -97,8 +97,6 @@ Free safety tools are in [Safety Tools](#safety-tools) below, and the educator c
 | [*Adventures in Teaching and Learning with TTRPGs*](https://www.tabletopEDU.org) | — | The educator's book (TabletopEDU, 2025). Get the PDF — it's better edited than the original print run |
 
 Everything in the free tier is enough to start.
-
-*Descended from the Queen:* the URL on the printed handout (`buriedwithoutceremony.com/descended-from-the-queen`) returns a 404, and I couldn't confirm a current home for it, so the entry is unlinked for now.
 
 ---
 
