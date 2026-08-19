@@ -11,13 +11,13 @@ description: Character Analysis through Roleplaying for Literary and Historical 
 
 ---
 
-Narrative Crossroads helps students analyze literary characters and historical figures from the inside out. Instead of observing characters from a distance, students step into **threshold moments** — points where a character could genuinely have chosen otherwise — and answer the question the text leaves open: *what do you do?*
+Narrative Crossroads helps students analyze literary characters and historical figures from the inside out. Instead of observing characters from a distance, students step into **threshold moments** — points where a character could genuinely have chosen otherwise — and write a few sentences in that character's voice.
 
-Then they answer the one that does the real work: *what in the text makes you say that?*
+Then the room pools its readings and answers the one that does the real work: *which reading does the text support, and what's your evidence?*
 
 That is close reading. It just doesn't feel like it.
 
-You don't need to be a gamer to run this. The minimum version takes one class period, a text your students have already read, and no dice at all.
+You don't need to be a gamer to run this. It's a solo journaling game played by everyone at once — one class period, a text your students have already read, and nothing to win or lose.
 
 [**Quickstart — one class period**]({% link quickstart.md %}){: .btn .btn-primary }
 [Browse all free materials]({% link downloads.md %}){: .btn }
@@ -27,15 +27,15 @@ You don't need to be a gamer to run this. The minimum version takes one class pe
 
 ---
 
-## The Method's Three Core Skills
+## The Method's Three Lenses
 
-Every character is described with the same three skills. This is the vocabulary the rest of the site runs on — the modules, the worksheets, and the framework all assume it:
+Every student reads the same moment through one of three lenses. This is the vocabulary the rest of the site runs on — the modules, the worksheets, and the framework all assume it:
 
-- **Confrontation** — Physical challenges and conflicts
-- **Comprehension** — Understanding situations and insights
-- **Connection** — Social interactions and relationships
+- **Confrontation** — Read it as a clash: what are you up against, and what does facing it cost?
+- **Comprehension** — Read it as a realization: what do you understand now that you didn't a moment ago?
+- **Connection** — Read it through the bonds: who is this really about, and what do you owe them?
 
-A character's traits become a percentage in each skill, drawn from evidence in the text. In the full framework, students roll percentile dice (D100) against those percentages to resolve what happens at a threshold moment. The minimum version uses the same three skills and no dice.
+Lenses are ways of reading, not skills or stats — nothing is ever rolled against them. Students pick one, or roll a die to spread the room. The die only decides which way in you get; it never decides how anything turns out.
 
 ---
 

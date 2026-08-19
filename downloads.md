@@ -47,9 +47,9 @@ Ready-to-use modules with character profiles, threshold moments, question banks,
 
 ## What's in Each Module
 
-1. **Character Profiles** — Pre-assigned skill percentages for Confrontation, Comprehension, and Connection
-2. **Threshold Moments** — Critical turning points with decision points and skill checks
-3. **Question Banks** — Interview questions organized by skill category
+1. **Character Profiles** — Who each character is at the moment, with textual evidence for what they want and fear
+2. **Threshold Moments** — Critical turning points, chosen because the character could genuinely have gone either way
+3. **Lens Prompts** — What each of the three lenses asks at that particular moment
 4. **Implementation Guidelines** — Setup, timing, and facilitation notes
 
 ---

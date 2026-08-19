@@ -45,7 +45,6 @@ The scenarios used in the session are built on short texts that are still in cop
 Both scenarios use the same engine:
 
 - **A clock.** Seven narrated beats, delivered in order, no stopping mid-clock.
-- **A composure track.** Something the participant spends to hold their own position against the room.
 - **A physical threshold.** The choice is made with the body, not the mouth. Standing, stepping, pressing, placing a token.
 - **A reckoning.** After the choice, before the debrief: the moment the consequence lands.
 

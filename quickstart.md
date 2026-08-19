@@ -8,7 +8,7 @@ description: The fastest path from reading about Narrative Crossroads to running
 # Quickstart
 {: .no_toc }
 
-You do not need dice, a game, or any experience with tabletop roleplaying to run Narrative Crossroads. You need a text your students have read, one pivotal scene, and about forty minutes.
+You do not need a game or any experience with tabletop roleplaying to run Narrative Crossroads. You need a text your students have read, one pivotal scene, and about forty minutes. It's a solo journaling game played by everyone at once: students write in character, then the room compares readings.
 
 This page is the shortest path from *reading about it* to *doing it*. Everything linked here is free under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — download it, print it, change it, use it with your students. No account, no email, no paywall.
 
@@ -18,7 +18,7 @@ The name is borrowed from tabletop publishing, where a quickstart is the free st
 
 ## One Card. One Scene. One Question.
 
-This is the minimum viable version. It takes one class period and requires no dice and no game.
+This is the minimum viable version. It takes one class period, and the only die is optional.
 
 There's no PDF to download — printing this page gives you the whole recipe on paper, with the site's furniture stripped out.
 
@@ -35,37 +35,40 @@ If nobody could disagree about it, it isn't a threshold. Pick again.
 
 ### 2. Fill the card (students, 10–15 minutes)
 
-One **Character Frame** card per student. Four boxes, each requiring a line or page number:
+One **Character Frame** card per student. Two evidence boxes, each requiring a line or page number:
 
 | Box | Prompt |
 | --- | --- |
 | **Wants** | What does this character want right now? |
 | **Fears** | What are they afraid of? |
-| **Guided by** | What rule or value do they hold? |
-| **Limited by** | What can't they do — by circumstance, ability, or position? |
 
 Print blanks from the [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) — two to a page, half-sheets, one cut.
 
 Circulate. When a student writes something vague, ask where they see it. That's the whole teacher move.
 
-### 3. Ask the question (10–15 minutes)
+### 3. Take a lens and write (10–15 minutes)
 
-Describe the moment out loud, in second person, and stop:
+Describe the moment out loud, in second person, and leave them in it:
 
-> "You are Juliet. The vial is in your hand. The Friar's plan depends on your waking up at exactly the right hour, in a tomb, alone. Paris is coming in the morning. **What do you do?**"
+> "You are Juliet. The vial is in your hand. The Friar's plan depends on your waking up at exactly the right hour, in a tomb, alone. Paris is coming in the morning."
 
-Take answers. After each one, push exactly once: *"What on your card makes you say that?"*
+Each student takes one lens — they can pick, or roll a die so the room spreads across all three:
 
-You are not looking for the right answer. You are looking for an answer the card supports.
+| Roll | Lens | What it asks |
+| --- | --- | --- |
+| **1–2** | **Confrontation** | What are you facing, and what will it cost you? |
+| **3–4** | **Comprehension** | What do you understand now that you didn't before? |
+| **5–6** | **Connection** | Who is this about, and what do you owe them? |
 
-### 4. Close it (5–10 minutes)
+Then they write a few sentences in the character's voice, at that moment. The die only chooses the way in — there is nothing to succeed or fail at, and nothing is rolled against the character.
 
-Two moves:
+### 4. Harvest (5–10 minutes)
 
-- **Compare.** "Here's what the character actually does. Why did the author choose that instead of what you chose?"
-- **Write.** *"One thing I understand about [character] now that I didn't before is ___."*
+Read several aloud, at least one from each lens. Then ask the question that does the work:
 
-Collect the cards and the exit writing. You now have documented evidence of RL.9-10.1 and RL.9-10.3.
+> ***Which reading does the text support, and what's your evidence?***
+
+You are not looking for the right answer. You are looking for readings the text will carry. Collect the cards. You now have documented evidence of RL.9-10.1 and RL.9-10.3.
 
 ---
 
@@ -85,7 +88,7 @@ Ready-made scenes for specific texts are on the [Downloads]({% link downloads.md
 The minimum version was built in an ML classroom and holds up there without modification. Three things to know before you run it:
 
 - **The card is the scaffold.** Students who won't speak in a whole-class discussion will read from a card they filled in themselves. Let them.
-- **Written answers count.** "What do you do?" can be answered on paper. Oral production is a goal, not a gate.
+- **The writing is the play.** The whole activity happens on paper, so oral production is a goal rather than a gate.
 - **Home language is allowed in the thinking.** Plan in L1, produce in English. The analysis is the learning target.
 
 Full detail, including sentence frames and a WIDA alignment, is on the [ML Scaffolding]({% link method/ml-scaffolding.md %}) page.
@@ -94,7 +97,7 @@ Full detail, including sentence frames and a WIDA alignment, is on the [ML Scaff
 
 ## When You Want More Than the Minimum
 
-The quickstart is deliberately stripped down. The full method adds dice, character skill percentages, and a structured character interview — all of which are worth adding once the basic move is working in your room.
+The quickstart is deliberately stripped down. The full method adds prepared characters, several threshold moments per text, and repeated rounds that build a body of writing — all worth adding once the basic move is working in your room.
 
 - [Implementation Guide]({% link practice/implementation-guide.md %}) — session structure, grouping, troubleshooting
 - [Character Analysis Tools]({% link practice/character-analysis-tools.md %}) — the full mechanics and worksheets

@@ -18,7 +18,7 @@ Narrative Crossroads is particularly effective with multilingual learners (MLs).
 Krashen's (1982) **input hypothesis** suggests that language acquisition occurs when learners encounter material slightly beyond their current level (i+1) in a low-anxiety environment.
 
 TTRPGs provide this through:
-- **Visual supports** — Maps, character sheets, dice as concrete referents
+- **Visual supports** — Maps, character cards, lens icons as concrete referents
 - **Contextual clues** — Shared narrative context makes meaning transparent
 - **Peer collaboration** — More proficient peers model language use in context
 - **Repetition with variation** — Game structures recur, but content changes
@@ -36,7 +36,7 @@ The **affective filter** hypothesis suggests that anxiety blocks language acquis
 
 MLs benefit from **meaningful communication** rather than decontextualized drills. Roleplay creates genuine communicative need:
 
-- Students must express character intentions clearly to succeed
+- Students must express a character's inner state clearly enough for peers to weigh it
 - Negotiation with peers requires real-time language production
 - Stakes (even fictional ones) motivate precision
 
@@ -81,7 +81,7 @@ MLs benefit from **meaningful communication** rather than decontextualized drill
 The goal is **reducing linguistic complexity** while maintaining **cognitive challenge**:
 
 - ✓ Fewer rules, clearly explained with examples
-- ✓ Visual/iconic dice results (critical success, success, failure, critical failure) rather than numerical tables
+- ✓ Icons for the three lenses rather than text-only prompts
 - ✓ Shorter scenarios that can be completed in one session
 - ✗ Don't simplify the *thinking* — character analysis should remain rigorous
 

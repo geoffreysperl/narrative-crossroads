@@ -28,9 +28,9 @@ Text-specific Narrative Crossroads modules with character profiles, threshold mo
 
 Each module includes:
 
-1. **Character Profiles** — Pre-assigned skill percentages for Confrontation, Comprehension, and Connection
-2. **Threshold Moments** — Critical turning points with decision points and skill checks
-3. **Question Banks** — Interview questions organized by skill category
+1. **Character Profiles** — Who each character is at the moment, with textual evidence for what they want and fear
+2. **Threshold Moments** — Critical turning points, chosen because the character could genuinely have gone either way
+3. **Lens Prompts** — What each of the three lenses asks at that particular moment
 4. **Implementation Guidelines** — Setup, timing, and facilitation notes
 
 ---
@@ -41,19 +41,10 @@ Use the [Historical Template](/downloads/NC_Historical_Template.pdf) as a starti
 
 ### Key Elements
 
-1. **Select 3-5 characters** with distinct skill profiles
+1. **Select 3-5 characters**, each with textual evidence for what they want and fear
 2. **Identify 2-3 threshold moments** — critical turning points with meaningful choices
-3. **Write 6-9 interview questions** — 2-3 per skill category
-4. **Define success/failure outcomes** for each decision point
-
-### Skill Assignment Guidelines
-
-| Character Type | Confrontation | Comprehension | Connection |
-|:---------------|:--------------|:--------------|:-----------|
-| Action-oriented | High (60-75%) | Medium (40-55%) | Low (25-40%) |
-| Intellectual | Low (25-40%) | High (60-75%) | Medium (40-55%) |
-| Social/Political | Medium (40-55%) | Medium (40-55%) | High (60-75%) |
-| Balanced | Medium (45-55%) | Medium (45-55%) | Medium (45-55%) |
+3. **Write the lens prompts** — what Confrontation, Comprehension, and Connection each ask at that moment
+4. **Note what the text actually does**, so the harvest has something to argue against
 
 ---
 

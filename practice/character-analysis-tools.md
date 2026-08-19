@@ -7,124 +7,103 @@ nav_order: 2
 
 # Character Analysis Tools
 
-The mechanics and worksheets for Narrative Crossroads.
+The lenses and worksheets for Narrative Crossroads.
 
 ---
 
-## The Three Skills
+## The Three Lenses
 
-Every character in Narrative Crossroads has percentages in three skills:
+Narrative Crossroads is a solo journaling game played by everyone at once. A student inhabits a character at a threshold moment, takes one of three lenses, and writes a few sentences in character. The lenses are three ways of *reading* one moment — not skills, not stats, and nothing is ever rolled against them.
 
-| Skill | Governs | Example Uses |
-|:------|:--------|:-------------|
-| **Confrontation** | Physical challenges and conflicts | Fighting, fleeing, enduring hardship, taking bold action |
-| **Comprehension** | Understanding situations and insights | Noticing details, solving puzzles, reading between lines, recalling knowledge |
-| **Connection** | Social interactions and relationships | Persuading, deceiving, empathizing, building trust |
+| Lens | Read the moment as… | The question it asks |
+|:-----|:--------------------|:---------------------|
+| **Confrontation** | A clash | What are you up against, and what does facing it cost? |
+| **Comprehension** | A realization | What do you understand now that you didn't a moment ago? |
+| **Connection** | The bonds | Who is this really about, and what do you owe them? |
 
-### Skill Percentages
-
-Characters are pre-assigned skill percentages based on their portrayal in the text:
-
-- **High (60-75%)** — The character excels here
-- **Medium (40-55%)** — Competent but not exceptional
-- **Low (25-40%)** — A weakness or blind spot
-
-The percentages reflect who the character *is*, not who students want them to be.
+Three students at the same moment, holding different lenses, will write three different things. That difference is the point — it is what the discussion afterward is made of.
 
 ---
 
-## Resolution Mechanic
+## The Round
 
-When a character attempts something with uncertain outcome:
+### 1. Same character, same moment
 
-### 1. Describe the Action
-What does your character try to do?
+Everyone works from the same character at the same threshold moment. Nobody is competing, and nobody is waiting for a turn.
 
-### 2. Identify the Skill
-Which skill applies—Confrontation, Comprehension, or Connection?
+### 2. Take a lens
 
-### 3. Roll D100
-Roll two ten-sided dice (2D10). One die represents tens, the other units.
+Students pick a lens, or roll a die to spread the room:
 
-| Roll | Result |
-|:-----|:-------|
-| **01 to one tenth of [Skill %]** | **Critical Success** — It works, and something goes better than expected |
-| **01-[Skill %]** | **Success** — It works as intended |
-| **[Skill %+1]-95** | **Failure** — It doesn't work, or backfires |
-| **96-00** | **Critical Failure** — Something goes very wrong |
+| Roll | Lens |
+|:-----|:-----|
+| **1–2** | Confrontation |
+| **3–4** | Comprehension |
+| **5–6** | Connection |
 
-*Rolling equal to or under your skill percentage succeeds. Roll a tenth of that or less — 7 or under on a 70% skill — and it's a critical success.*
+The die only seeds. It decides which way in you get; it never decides how anything turns out. There is nothing to succeed or fail at.
 
-### 4. Narrate the Outcome
-The GM (teacher) describes what happens based on the roll.
+### 3. Write in character
 
----
+A few sentences, in the character's voice, at that moment. The writing is the play — not a record of play that happened somewhere else.
 
-## Character Interview
+### 4. Harvest
 
-After exploring the threshold moment, students answer interview questions from the character's perspective.
+Read several aloud, at least one from each lens. Then ask the question that does the analytical work:
 
-### Question Structure
+> **Which reading does the text support, and what's your evidence?**
 
-Roll 1d10 or select one question from each skill category:
-
-**Confrontation Questions** — About action, conflict, physical experience
-- "What was the hardest thing you had to do?"
-- "When did you feel most afraid?"
-
-**Comprehension Questions** — About understanding, insight, realization
-- "What do you understand now that you didn't before?"
-- "What did you notice that others missed?"
-
-**Connection Questions** — About relationships, belonging, identity
-- "Who matters most to you, and why?"
-- "What do others misunderstand about you?"
-
-### The Final Question
-
-Every interview ends with: **"Who are you?"**
-
-This open question invites synthesis—students must articulate the character's identity based on everything they've experienced.
+The pooled readings are the discussion. Students are not defending a score; they are defending an interpretation against the text.
 
 ---
 
 ## Character Frame Worksheet
 
-*For students to complete before play.*
+*For students to complete before writing.*
 
-The four profile boxes below are the same four on the printable [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) — print that if you want them on paper. The skills table is what this worksheet adds: the full method needs skill percentages, and the card doesn't carry them.
+The boxes below are the same ones on the printable [Character Frame Card](/downloads/NC_Character_Frame_Card.pdf) — print that if you want them on paper. Two evidence boxes, a lens, and room to write.
 
 ### Character: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 ### Text: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
-### Threshold Moment: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
+### The Moment: &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
 ---
 
-#### Skills
-
-| Skill | Percentage | Textual Evidence |
-|:------|:-----------|:-----------------|
-| Confrontation | &#95;&#95;&#95;% | |
-| Comprehension | &#95;&#95;&#95;% | |
-| Connection | &#95;&#95;&#95;% | |
-
----
-
-#### Character Profile
+#### Evidence
 
 **Wants** — What does this character want right now?
 
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
+*Evidence (line / page):* &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
+
 **Fears** — What are they afraid of?
 
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
-**Guided by** — What rule or value do they hold?
+*Evidence (line / page):* &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
+
+---
+
+#### Your Lens
+
+Circle one, or roll a die — it only chooses your way in.
+
+| Lens | | The question it asks |
+|:-----|:--|:---------------------|
+| **Confrontation** | (1–2) | What are you facing, and what will it cost you? |
+| **Comprehension** | (3–4) | What do you understand now that you didn't before? |
+| **Connection** | (5–6) | Who is this about, and what do you owe them? |
+
+---
+
+#### Write in Character
+
+A few sentences, in their voice, at this moment — show one thing from a box above.
 
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
-**Limited by** — What can't they do — by circumstance, ability, or position?
+&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
 
@@ -132,27 +111,27 @@ The four profile boxes below are the same four on the printable [Character Frame
 
 ## Reflection Prompts
 
-After play, students reflect:
+After the harvest, students reflect:
 
 ### Comparison
-- How did your choices compare to what the character actually does in the text?
+- How did your reading compare to what the character actually does in the text?
 - Why do you think the author made different choices?
 
 ### Discovery
-- What did the roleplay reveal about this character that you hadn't considered?
-- What surprised you about how the scene played out?
+- What did writing in character reveal that you hadn't considered?
+- What surprised you in someone else's reading of the same moment?
 
 ### Evidence
 - What textual evidence supports your interpretation?
 - What evidence might challenge your reading?
 
-### Identity
-- How did you answer "Who are you?" and why?
-- How does this character's identity connect to the text's themes?
+### Lens
+- How would the moment have read through a different lens?
+- Which lens does the text itself seem to favor, and why?
 
 ---
 
 ## Downloads
 
 - [Narrative Crossroads Framework](/downloads/Narrative_Crossroads_Framework.pdf) — Complete system document
-- [Text-specific modules]({% link practice/modules/index.md %}) — Ready-to-use character profiles and threshold moments
+- [Text-specific modules]({% link practice/modules/index.md %}) — Ready-to-use characters and threshold moments

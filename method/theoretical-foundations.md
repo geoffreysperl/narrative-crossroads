@@ -46,7 +46,7 @@ Jean Piaget's developmental theory emphasizes that learning occurs through **act
 
 ### Application to Narrative Crossroads
 
-Roleplay creates **productive disequilibrium**. When students attempt to act as a character and encounter unexpected outcomes (dice results, peer responses, GM complications), they must accommodate — revising their understanding of the character to account for what happened.
+Writing in character creates **productive disequilibrium**. When students inhabit a character and then meet a peer's reading of the same moment that they cannot square with their own, they must accommodate — revising their understanding of the character to account for it.
 
 This is more powerful than simply being told a character is complex. The student *experiences* the complexity through decision-making that doesn't resolve cleanly.
 
@@ -69,12 +69,12 @@ The collaborative structure of TTRPG-based analysis provides multiple layers of 
 | Scaffold | Function |
 |:---------|:---------|
 | Character frame worksheet | Structures textual evidence gathering |
-| GM narration | Models close reading of setting/situation |
-| Peer roleplay | Provides real-time feedback on interpretation |
-| Dice mechanics | Externalizes decision consequences |
+| Teacher framing of the moment | Models close reading of setting/situation |
+| Pooled readings | Provide real-time feedback on interpretation |
+| The three lenses | Externalize different routes into one moment |
 | Debrief discussion | Connects experiential learning to analytical frameworks |
 
-The GM (teacher) operates as MKO, but peers also scaffold each other — a student who understands a character's motivation can model that understanding through play.
+The teacher operates as MKO, but peers also scaffold each other — a student who understands a character's motivation can model that understanding in what they write and read aloud.
 
 ---
 

@@ -45,7 +45,7 @@ Annual Trade Day programming includes educator sessions. Major networking opport
 | System | Publisher | Notes |
 |:-------|:----------|:------|
 | **No Thank You, Evil!** | Monte Cook Games | Designed for kids; excellent for intro/scaffolding |
-| **Basic Roleplaying** | Chaosium | Flexible, percentile-based; adaptable to any setting |
+| **Basic Roleplaying** | Chaosium | Flexible and adaptable to almost any setting |
 | **Fate Accelerated** | Evil Hat | Narrative-focused; emphasizes character aspects |
 | **Fiasco** | Bully Pulpit Games | GM-less; structured dramatic scenes; good for ELA |
 

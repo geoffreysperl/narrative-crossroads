@@ -11,11 +11,11 @@ nav_order: 1
 
 ## What Is Narrative Crossroads?
 
-Narrative Crossroads is a framework for character analysis through structured roleplaying. It helps students analyze literary characters or historical figures by stepping into their shoes at critical decision points—threshold moments where characters face meaningful choices.
+Narrative Crossroads is a solo journaling game, played by everyone at once, for character analysis. It helps students analyze literary characters or historical figures by stepping into their shoes at critical decision points—threshold moments where characters face meaningful choices—and writing from inside them.
 
 The framework combines elements from several sources:
-- The interview structure from my original "Character Analysis Role-Playing" lesson
-- The percentile dice system from Chaosium's *Basic Roleplaying* (BRP)
+- The character-framing structure from my original "Character Analysis Role-Playing" lesson
+- The solo journaling tradition, where a prompt and a page do the work of a table
 - The atmospheric qualities of indie TTRPGs like *The Last Tea Shop*
 
 ---
@@ -24,34 +24,33 @@ The framework combines elements from several sources:
 
 ### 1. Character Selection
 
-Students select or roll 1d10 for a character from the text. Each character has pre-assigned skill percentages in three areas:
-
-| Skill | Description |
-|:------|:------------|
-| **Confrontation** | Physical challenges and conflicts |
-| **Comprehension** | Understanding situations and insights |
-| **Connection** | Social interactions and relationships |
+Students select a character from the text, or roll a die for one. Each character comes with textual evidence rather than statistics — what they want, and what they fear.
 
 ### 2. Threshold Moment Exploration
 
-Students explore characters at **threshold moments**—critical turning points in the text. Each moment presents 1-2 key decisions requiring skill checks.
+Students explore characters at **threshold moments**—critical turning points in the text, chosen because the character could genuinely have gone either way.
 
-### 3. Character Interview
+### 3. Take a Lens
 
-Students roll 1d10 for three questions (one from each skill category). Answering from the character's perspective deepens understanding.
+Each student reads the moment through one of three lenses. They pick, or roll a die to spread the room across all three:
 
-The final question is always: **"Who are you?"**
+| Lens | Read the moment as… |
+|:-----|:--------------------|
+| **Confrontation** | A clash. What are you up against, and what does facing it cost? |
+| **Comprehension** | A realization. What do you understand now that you didn't a moment ago? |
+| **Connection** | The bonds. Who is this really about, and what do you owe them? |
 
-### 4. Decision Resolution
+The die only seeds. Nothing is rolled against a character, and there is nothing to succeed or fail at.
 
-- Students roll D100 (two ten-sided dice) against the character's skill percentage
-- Critical success (a tenth of the skill or less), success (at or under it), failure (over it), or critical failure (96-00) determines how the character navigates the threshold moment
-- Outcomes affect character development and narrative direction
+### 4. Write in Character
 
-### 5. Reflection & Analysis
+Students write a few sentences in the character's voice, at that moment. The writing is the play.
 
-- Students document their character's experience
-- Connect decisions to character development and textual themes
+### 5. Harvest & Analysis
+
+- Several readings are read aloud, at least one from each lens
+- The class asks: *which reading does the text support, and what's your evidence?*
+- Students connect their readings to character development and textual themes
 
 ---
 
@@ -95,7 +94,7 @@ Narrative Crossroads supports several pedagogical goals:
 Narrative Crossroads supports multiple assessment methods:
 
 - Written character journals
-- Audio/video character interviews
+- Audio/video readings in character
 - Comparative analysis essays
 - Collaborative scene creation
 - Alternative ending development

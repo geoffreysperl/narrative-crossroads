@@ -99,11 +99,11 @@ Narrative Crossroads is designed to activate these mechanisms:
 | Mechanism | NC Design Element |
 |:----------|:------------------|
 | Narrative transportation | Threshold moments place students inside character decisions |
-| Structural understanding | The three skills (Confrontation, Comprehension, Connection) make character analysis explicit |
+| Structural understanding | The three lenses (Confrontation, Comprehension, Connection) make character analysis explicit |
 | Perspective-taking | Character Frame worksheet requires textual evidence for character interpretation |
-| Oral-literate blend | Gameplay (oral) combines with worksheets and reflection (literate) |
-| Intrinsic motivation | Dice mechanics create investment; student choice drives engagement |
-| Flow | Immediate feedback through dice results and GM narration |
+| Oral-literate blend | The harvest (oral) combines with cards and written responses (literate) |
+| Intrinsic motivation | Writing from inside a character creates investment; choice of lens drives engagement |
+| Flow | Immediate feedback from peers' readings of the same moment |
 
 The framework isn't gamification — adding points to traditional instruction. It's a different pathway to the same learning objectives, one that activates cognitive mechanisms traditional instruction often misses.
 
