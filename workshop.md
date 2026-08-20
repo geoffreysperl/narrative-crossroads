@@ -57,7 +57,7 @@ Ask for the facilitator documents at <geoffrey@geoffreysperl.com> and tell me wh
 
 ---
 
-## The Seven Procedures
+## The Eight Procedures
 
 The toolkit segment's premise: strip the setting off a game and keep the procedure underneath. You don't adopt a whole game — you take the procedure that does a classroom job and drop it into a text you already teach.
 
@@ -65,8 +65,9 @@ The toolkit segment's premise: strip the setting off a game and keep the procedu
 | --- | --- |
 | **Session zero** | Establishing norms students actually own |
 | **Community and place** | Building shared context before content |
-| **A choice that costs something** | Making stakes real enough to reason about |
 | **"What do you do?"** | Converting comprehension into commitment |
+| **Writing in role** | Answers that arrive as the character, not about the character |
+| **A choice that costs something** | Making stakes real enough to reason about |
 | **Safety and calibration** | Giving students a way out that isn't a confession |
 | **Structure that survives absence** | Running a unit when a third of the room is gone |
 | **Students inventing the rules** | Handing over authorship |
