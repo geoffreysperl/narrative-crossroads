@@ -7,7 +7,7 @@ nav_order: 3
 
 # Modules
 
-Text-specific Narrative Crossroads modules with character profiles, threshold moments, question banks, and implementation guidelines.
+Text-specific Narrative Crossroads modules with character profiles, threshold moments, lens prompts, and implementation guidelines.
 
 ---
 

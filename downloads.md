@@ -6,7 +6,7 @@ nav_order: 8
 
 # Downloads
 
-Ready-to-use modules with character profiles, threshold moments, question banks, and implementation guidelines.
+Ready-to-use modules with character profiles, threshold moments, lens prompts, and implementation guidelines.
 
 ---
 
