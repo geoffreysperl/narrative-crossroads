@@ -1,20 +1,28 @@
 # Narrative Crossroads
 
-**A methodology for literary character analysis using tabletop roleplaying game mechanics**
+**A solo journaling game for literary and historical character analysis**
 
 ---
 
 ## What is Narrative Crossroads?
 
-Narrative Crossroads adapts the decision-making structures of tabletop roleplaying games (TTRPGs) to help students analyze literary characters from the inside out. Rather than observing characters from a critical distance, students step into **threshold moments**—points where a character could genuinely have chosen otherwise—then use structured mechanics to explore motivation, consequence, and agency.
+Narrative Crossroads is a solo journaling game, played by everyone at once. Rather than observing characters from a critical distance, students step into **threshold moments**—points where a character could genuinely have chosen otherwise—read that moment through one of three lenses, and write a few sentences in character. The class then pools its readings and asks which one the text supports. That discussion is the analysis.
 
-The method is grounded in three intersecting literacy frameworks:
+Nothing is rolled against a character. A die appears only to spread a room across the three lenses, and choosing works just as well.
+
+The three lenses are ways of *reading* one moment, not skills or stats:
+
+- **Confrontation** — a clash: what are you up against, and what does facing it cost?
+- **Comprehension** — a realization: what do you understand now that you didn't a moment ago?
+- **Connection** — the bonds: who is this really about, and what do you owe them?
+
+Its theoretical grounding draws on three intersecting literacy frameworks:
 
 - **Mechanical literacy** — Understanding rules and systems as interpretive lenses
 - **Narrative literacy** — Engaging with story elements through active participation
 - **Social literacy** — Navigating collaborative meaning-making
 
-Narrative Crossroads is designed for secondary ELA classrooms and works particularly well with multilingual learners, who benefit from the scaffolded, low-risk environment that structured roleplay provides.
+Narrative Crossroads is designed for secondary ELA classrooms and works particularly well with multilingual learners, who benefit from the scaffolded, low-risk environment that writing in role provides.
 
 ---
 
@@ -34,7 +42,8 @@ Geoffrey sponsors his school's tabletop gaming club and presents on TTRPG pedago
 ```
 narrative-crossroads/
 ├── index.md                   # Homepage
-├── quickstart.md              # The no-dice entry version — one class period
+├── quickstart.md              # The entry version — one class period
+├── solo-srd.md                # The Solo Framework SRD — the system itself, canonical
 ├── workshop.md                # Follow-up for Quest-Based Learning attendees
 ├── downloads.md               # Index of printable materials
 ├── acknowledgments.md
@@ -68,7 +77,7 @@ narrative-crossroads/
 │
 ├── _sass/                     # Theme customization
 │   ├── color_schemes/custom.scss
-│   └── custom/custom.scss     # Print styles (Quickstart prints on one sheet)
+│   └── custom/custom.scss     # Print styles — strips site furniture for printing
 │
 ├── bin/serve                  # Run the site locally on the pinned toolchain
 ├── Gemfile                    # Pins Jekyll to the version GitHub Pages runs
@@ -80,13 +89,15 @@ narrative-crossroads/
 ## Getting Started
 
 **For teachers:**
-Start with [quickstart.md](quickstart.md) — one class period, no dice, no game. Then [method/overview.md](method/overview.md) for the conceptual grounding and [practice/implementation-guide.md](practice/implementation-guide.md) for classroom logistics.
+Start with [quickstart.md](quickstart.md) — one class period, and the only die is optional. Then [solo-srd.md](solo-srd.md) for the system itself, [method/overview.md](method/overview.md) for the conceptual grounding, and [practice/implementation-guide.md](practice/implementation-guide.md) for classroom logistics.
 
 **For researchers:**
 The [research/](research/) folder contains the scholarly foundation, including an annotated bibliography and identified gaps in the current literature.
 
 **For game designers:**
-The [method/gaming-literacy-model.md](method/gaming-literacy-model.md) explains how TTRPG mechanics map to literacy objectives—useful if you're designing educational games.
+The system is published as an SRD under CC BY 4.0 — see [solo-srd.md](solo-srd.md); take it, change it, build on it. [method/gaming-literacy-model.md](method/gaming-literacy-model.md) explains how TTRPG structures map to literacy objectives.
+
+A group version, built on Basic Roleplaying and carrying an ORC License notice, is in development and is not on the site yet.
 
 ---
 
